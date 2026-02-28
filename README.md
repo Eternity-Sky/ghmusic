@@ -28,9 +28,10 @@ npm run build    # 爬取 + 构建
 
 ## 数据源
 
-- **MusicBrainz**：曲目元数据（无需 API Key，需遵守 1 req/s）
-- **演示曲目**：使用 SoundHelix 示例音频
-- 可在 `scripts/crawl.js` 扩展更多爬虫
+- **酷狗音乐**：曲目元数据 + 音源
+  - 搜索：songsearch.kugou.com
+  - 播放链接：m.kugou.com getSongInfo
+- 可在 `scripts/crawl.config.js` 修改搜索关键词
 
 ## 后期作为 API
 

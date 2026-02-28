@@ -11,8 +11,5 @@
   },
   "devDependencies": {
     "vite": "^6.0.0"
-  },
-  "dependencies": {
-    "cheerio": "^1.0.0"
   }
 }

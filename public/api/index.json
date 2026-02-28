@@ -1,1840 +1,965 @@
 {
   "tracks": [
     {
-      "id": "demo-1",
-      "title": "Ambient Flow",
-      "artist": "Demo Artist",
-      "artistId": "demo-artist",
-      "duration": 180,
-      "album": "Demo Album",
-      "albumId": "demo-album",
-      "cover": "https://picsum.photos/seed/music1/300/300",
-      "audio": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
-      "source": "demo"
-    },
-    {
-      "id": "demo-2",
-      "title": "Calm Piano",
-      "artist": "Demo Artist",
-      "artistId": "demo-artist",
-      "duration": 240,
-      "album": "Demo Album",
-      "albumId": "demo-album",
-      "cover": "https://picsum.photos/seed/music2/300/300",
-      "audio": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
-      "source": "demo"
-    },
-    {
-      "id": "demo-3",
-      "title": "Electronic Beat",
-      "artist": "Demo Artist",
-      "artistId": "demo-artist",
-      "duration": 200,
-      "album": "Demo Album",
-      "albumId": "demo-album",
-      "cover": "https://picsum.photos/seed/music3/300/300",
-      "audio": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
-      "source": "demo"
-    },
-    {
-      "id": "1b8af39b-bf05-4dce-bd83-59d228252bb2",
-      "title": "ROCK ROCK ROCK ROCK",
-      "artist": "Sunburned Hand of the Man",
-      "artistId": "25cd539a-27ab-4d16-b423-603d69839aa1",
-      "duration": 221,
-      "album": "Down in the Grind",
-      "albumId": "3d65c680-297e-4d72-8176-eb2dcdc2561b",
-      "cover": "https://coverartarchive.org/release/3d65c680-297e-4d72-8176-eb2dcdc2561b/front-250",
-      "audio": null,
-      "source": "musicbrainz"
-    },
-    {
-      "id": "7ae5c623-1b96-4d50-bf65-dcc11a60ad2c",
-      "title": "Rock Rock Rock",
-      "artist": "The Blue Jays",
-      "artistId": "39061a33-43c6-4106-bcb5-4b88b3db5fbd",
-      "duration": 112,
-      "album": "The Bluejays Meet the Paradons",
-      "albumId": "bd4a42a9-f031-42e8-bcf5-a53976fda834",
-      "cover": "https://coverartarchive.org/release/bd4a42a9-f031-42e8-bcf5-a53976fda834/front-250",
-      "audio": null,
-      "source": "musicbrainz"
-    },
-    {
-      "id": "1690e03e-cd75-4aca-b496-4cac6a2471a4",
-      "title": "Rock Rock Rock",
-      "artist": "Donna Summer",
-      "artistId": "5c01ba41-ab67-47c4-ba4c-4f40b2724afd",
-      "duration": 281,
-      "album": "Panther Tracks",
-      "albumId": "16b92cb7-2ea2-4079-b948-68e91a69f730",
-      "cover": "https://coverartarchive.org/release/16b92cb7-2ea2-4079-b948-68e91a69f730/front-250",
-      "audio": null,
-      "source": "musicbrainz"
-    },
-    {
-      "id": "81fa8d28-d006-4572-95ca-e7830a1d5ff6",
-      "title": "Rock!Rock!Rock!",
-      "artist": "Jan van den Dobbelsteen",
-      "artistId": "46b079a6-e34c-4d6c-9810-068a29a84def",
-      "duration": 122,
-      "album": "Naked and Alone on the Celebrity Circuit",
-      "albumId": "50d18cc9-3945-4b40-b54a-6a9d50da7082",
-      "cover": "https://coverartarchive.org/release/50d18cc9-3945-4b40-b54a-6a9d50da7082/front-250",
-      "audio": null,
-      "source": "musicbrainz"
-    },
-    {
-      "id": "0eb51899-eefa-4956-92e0-330d0f1ef928",
-      "title": "Rock rock rock",
-      "artist": "Playsongs",
-      "artistId": "6536196a-5a2b-4078-973d-f69d597c818d",
-      "duration": 43,
-      "album": "Playsongs",
-      "albumId": "c2b7616a-e664-41a4-8257-b9ad681545c9",
-      "cover": "https://coverartarchive.org/release/c2b7616a-e664-41a4-8257-b9ad681545c9/front-250",
-      "audio": null,
-      "source": "musicbrainz"
-    },
-    {
-      "id": "d33701db-39b8-4183-8645-99ea54707518",
-      "title": "Rock, Rock, Rock",
-      "artist": "Jimmy Cavallo & His House Rockers",
-      "artistId": "75d3e87d-921f-476a-8c94-0b93364b4f90",
-      "duration": 130,
-      "album": "Rock Around the Clock: The Decca Rock ’n’ Roll Collection",
-      "albumId": "c0aa47de-2710-4bfe-a00a-443b8ec8d950",
-      "cover": "https://coverartarchive.org/release/c0aa47de-2710-4bfe-a00a-443b8ec8d950/front-250",
-      "audio": null,
-      "source": "musicbrainz"
-    },
-    {
-      "id": "f5f48aa6-6922-4f5d-9d49-49b5cf36c29b",
-      "title": "Rock, Rock, Rock",
-      "artist": "Sparks",
-      "artistId": "f319b57a-a494-40f6-a467-3d196d3484e6",
-      "duration": 311,
-      "album": "Hello Young Lovers",
-      "albumId": "06da2b9f-72ef-4623-87b9-c42d97146c78",
-      "cover": "https://coverartarchive.org/release/06da2b9f-72ef-4623-87b9-c42d97146c78/front-250",
-      "audio": null,
-      "source": "musicbrainz"
-    },
-    {
-      "id": "452df6bf-fd52-4d52-95aa-0671dc674423",
-      "title": "Rock Rock Rock",
-      "artist": "Kiddus I",
-      "artistId": "90eb2af2-79af-4e72-ad60-985753ce689d",
-      "duration": 270,
-      "album": "Green Fa Life",
-      "albumId": "d8984073-abbc-4c4a-8a92-b88ec83fe3fc",
-      "cover": "https://coverartarchive.org/release/d8984073-abbc-4c4a-8a92-b88ec83fe3fc/front-250",
-      "audio": null,
-      "source": "musicbrainz"
-    },
-    {
-      "id": "fb24a68d-6390-4ab2-bd3a-0f110590a9ac",
-      "title": "Rock, Rock, Rock",
-      "artist": "Neil Young",
-      "artistId": "75167b8b-44e4-407b-9d35-effe87b223cf",
-      "duration": 210,
-      "album": "Live USA Vol. 3",
-      "albumId": "2c1dfacc-9e65-447f-9485-927509ec81ff",
-      "cover": "https://coverartarchive.org/release/2c1dfacc-9e65-447f-9485-927509ec81ff/front-250",
-      "audio": null,
-      "source": "musicbrainz"
-    },
-    {
-      "id": "eaa72a88-ffe9-4630-a934-3391a983151e",
-      "title": "Rock, Rock, Rock",
-      "artist": "The Dixiebelles",
-      "artistId": "81d1d4e3-2cb5-4795-b18f-4b36853b7279",
-      "duration": 139,
-      "album": "Down at Papa Joe’s",
-      "albumId": "bcf44860-a52d-4af5-8b5b-37b69bf4507f",
-      "cover": "https://coverartarchive.org/release/bcf44860-a52d-4af5-8b5b-37b69bf4507f/front-250",
-      "audio": null,
-      "source": "musicbrainz"
-    },
-    {
-      "id": "e885853c-4222-487a-9127-77dd24709773",
-      "title": "Rock, Rock, Rock",
-      "artist": "Citron",
-      "artistId": "b64aca09-a378-4aeb-ba0f-2312335604d4",
-      "duration": null,
-      "album": "1979-2017",
-      "albumId": "b9887a9d-d11f-4fdf-a5d5-4153919c74cf",
-      "cover": "https://coverartarchive.org/release/b9887a9d-d11f-4fdf-a5d5-4153919c74cf/front-250",
-      "audio": null,
-      "source": "musicbrainz"
-    },
-    {
-      "id": "f5f90dab-db3e-4b7e-bbc5-db793f7091f6",
-      "title": "Rock Rock Rock",
-      "artist": "Donna Summer",
-      "artistId": "5c01ba41-ab67-47c4-ba4c-4f40b2724afd",
-      "duration": 280,
-      "album": "Panther Tracks",
-      "albumId": "0af729fc-66ce-45a1-823a-9cbdf53ba9a3",
-      "cover": "https://coverartarchive.org/release/0af729fc-66ce-45a1-823a-9cbdf53ba9a3/front-250",
-      "audio": null,
-      "source": "musicbrainz"
-    },
-    {
-      "id": "1f4de6a2-0d5c-4150-9862-217c6e073d98",
-      "title": "Rock, Rock, Rock",
-      "artist": "Jimmy Cavallo & His House Rockers",
-      "artistId": "75d3e87d-921f-476a-8c94-0b93364b4f90",
-      "duration": 131,
-      "album": "Rare Rock ’n’ Roll Rampage",
-      "albumId": "3286a162-8e78-4657-8c27-b0f79afa628d",
-      "cover": "https://coverartarchive.org/release/3286a162-8e78-4657-8c27-b0f79afa628d/front-250",
-      "audio": null,
-      "source": "musicbrainz"
-    },
-    {
-      "id": "2e93ab46-568f-4115-85dc-bb7eb9ef46e3",
-      "title": "Rock Rock Rock",
-      "artist": "Tony Tuff",
-      "artistId": "2f768221-c825-49af-8688-aceeeef247c6",
-      "duration": null,
-      "album": "Rock Rock Rock",
-      "albumId": "aa133407-7680-45aa-afdc-ed3050830183",
-      "cover": "https://coverartarchive.org/release/aa133407-7680-45aa-afdc-ed3050830183/front-250",
-      "audio": null,
-      "source": "musicbrainz"
-    },
-    {
-      "id": "ea532f09-1ba9-422d-a496-cae8269da165",
-      "title": "Rock! Rock! Rock!",
-      "artist": "Jimmy Cavallo & His House Rockers",
-      "artistId": "75d3e87d-921f-476a-8c94-0b93364b4f90",
-      "duration": 169,
-      "album": "Alan Freed’s Rock and Roll Dance Party",
-      "albumId": "dd6ab286-4a85-49dd-9e17-adeaf9081b3c",
-      "cover": "https://coverartarchive.org/release/dd6ab286-4a85-49dd-9e17-adeaf9081b3c/front-250",
-      "audio": null,
-      "source": "musicbrainz"
-    },
-    {
-      "id": "1c11eb64-0fae-4f11-af46-397839ad7866",
-      "title": "Jazz Jazz Jazz Jazz",
-      "artist": "Them That Do",
-      "artistId": "256df589-1530-4a3e-abd8-d6b9f46d3cf9",
-      "duration": 241,
-      "album": "Them That Do...",
-      "albumId": "c581e593-2178-4cd7-902f-c467cebaff39",
-      "cover": "https://coverartarchive.org/release/c581e593-2178-4cd7-902f-c467cebaff39/front-250",
-      "audio": null,
-      "source": "musicbrainz"
-    },
-    {
-      "id": "a8adcddb-c9f2-4f46-b353-f70155600c07",
-      "title": "Jazz Jazz Jazz",
-      "artist": "박원",
-      "artistId": "bdda479c-bdf1-4d92-b628-aed76c0e254c",
-      "duration": 277,
-      "album": "Like A Wonder",
-      "albumId": "44ebc89b-7073-45c1-989b-dbe2625324b4",
-      "cover": "https://coverartarchive.org/release/44ebc89b-7073-45c1-989b-dbe2625324b4/front-250",
-      "audio": null,
-      "source": "musicbrainz"
-    },
-    {
-      "id": "a1dff751-1242-4234-b2cc-290569e8fae9",
-      "title": "Jazz, Jazz, Jazz",
-      "artist": "Acoustix",
-      "artistId": "0f48b2c3-d236-460a-9ef2-8231cf9ae054",
-      "duration": 176,
-      "album": "Jazz, Jazz, Jazz",
-      "albumId": "26b26eb6-9b16-441b-b41e-1355c31264b5",
-      "cover": "https://coverartarchive.org/release/26b26eb6-9b16-441b-b41e-1355c31264b5/front-250",
-      "audio": null,
-      "source": "musicbrainz"
-    },
-    {
-      "id": "fa57eb58-a07f-40b3-bd9a-ec61fa27a46a",
-      "title": "Jazz Jazz",
-      "artist": "The Sperm",
-      "artistId": "6748bd88-f536-4be9-bbb5-b8d9f3d30778",
-      "duration": 525,
-      "album": "50th Erection I: Collected Works 1968–1971",
-      "albumId": "d3951bc3-318c-43bc-a58c-49c1cca844ba",
-      "cover": "https://coverartarchive.org/release/d3951bc3-318c-43bc-a58c-49c1cca844ba/front-250",
-      "audio": null,
-      "source": "musicbrainz"
-    },
-    {
-      "id": "425e63b7-ccd2-4087-bf9f-8353a3b10021",
-      "title": "Jazz Jazz",
-      "artist": "Rob Mullins",
-      "artistId": "af351f7b-718c-40fc-845e-a6059b7afe7d",
-      "duration": 283,
-      "album": "Jazz Jazz",
-      "albumId": "f822c60d-1fe0-4221-9286-dfb7355bb9bd",
-      "cover": "https://coverartarchive.org/release/f822c60d-1fe0-4221-9286-dfb7355bb9bd/front-250",
-      "audio": null,
-      "source": "musicbrainz"
-    },
-    {
-      "id": "983922df-772c-4810-b40e-80decbf52336",
-      "title": "Jazz Jazz",
-      "artist": "Rob Mullins",
-      "artistId": "af351f7b-718c-40fc-845e-a6059b7afe7d",
-      "duration": 286,
-      "album": "Nova Collection '89",
-      "albumId": "d22a353a-bfe2-4b7c-8cb1-8e1fb325bf00",
-      "cover": "https://coverartarchive.org/release/d22a353a-bfe2-4b7c-8cb1-8e1fb325bf00/front-250",
-      "audio": null,
-      "source": "musicbrainz"
-    },
-    {
-      "id": "f03b5a94-d408-41ce-87a5-92b212f3eb69",
-      "title": "Jazz Jazz",
-      "artist": "Jerk House Connection",
-      "artistId": "3e82027c-c01c-40a2-9423-0b59b8e2b9a6",
-      "duration": 297,
-      "album": "Best of Chill Out Café, Vol4",
-      "albumId": "89daa4c6-9b53-449d-b158-e89526ad50c3",
-      "cover": "https://coverartarchive.org/release/89daa4c6-9b53-449d-b158-e89526ad50c3/front-250",
-      "audio": null,
-      "source": "musicbrainz"
-    },
-    {
-      "id": "9b18e788-9718-4b11-9dcd-a661edb5b3c3",
-      "title": "Jazz Jazz",
-      "artist": "João Penca e seus Miquinhos Amestrados",
-      "artistId": "53ba77c5-2c98-407d-8488-aaaac464eff3",
-      "duration": 261,
-      "album": "Além da Alienação",
-      "albumId": "e2e0df0e-f53e-4784-ae09-373e44325f33",
-      "cover": "https://coverartarchive.org/release/e2e0df0e-f53e-4784-ae09-373e44325f33/front-250",
-      "audio": null,
-      "source": "musicbrainz"
-    },
-    {
-      "id": "f8176160-3c66-45ea-83d2-9275e0cbd9f0",
-      "title": "Jazz Jazz",
-      "artist": "The Sperm",
-      "artistId": "6748bd88-f536-4be9-bbb5-b8d9f3d30778",
-      "duration": 529,
-      "album": "Works 1968–76",
-      "albumId": "65f27b44-4ed5-472d-baf9-76a5b6452b2e",
-      "cover": "https://coverartarchive.org/release/65f27b44-4ed5-472d-baf9-76a5b6452b2e/front-250",
-      "audio": null,
-      "source": "musicbrainz"
-    },
-    {
-      "id": "d1c5e2fe-5f82-4a23-803f-313c3dd9b82f",
-      "title": "Jazz Jazz",
-      "artist": "The Sperm",
-      "artistId": "6748bd88-f536-4be9-bbb5-b8d9f3d30778",
-      "duration": 529,
-      "album": "Shh!",
-      "albumId": "9c18e57e-a310-4b01-911e-68d48120603c",
-      "cover": "https://coverartarchive.org/release/9c18e57e-a310-4b01-911e-68d48120603c/front-250",
-      "audio": null,
-      "source": "musicbrainz"
-    },
-    {
-      "id": "5d15b563-ab29-4634-8e2a-5f39cadab24b",
-      "title": "Jazz Jimi Jazz",
-      "artist": "Jimi Hendrix",
-      "artistId": "06fb1c8b-566e-4cb2-985b-b467c90781d4",
-      "duration": 763,
-      "album": "Sotheby’s Auction Tapes",
-      "albumId": "c4fe0e5d-7d54-4a1d-b134-a7fbf490b1f6",
-      "cover": "https://coverartarchive.org/release/c4fe0e5d-7d54-4a1d-b134-a7fbf490b1f6/front-250",
-      "audio": null,
-      "source": "musicbrainz"
-    },
-    {
-      "id": "2b00790e-3029-47c8-82dc-c57d32d8f103",
-      "title": "Jazz et Jazz",
-      "artist": "Bernard Peiffer",
-      "artistId": "f5358bdf-816d-487d-b2a5-e5b1365b2e3f",
-      "duration": 182,
-      "album": "L’Histoire du piano jazz",
-      "albumId": "342cfe82-a443-4bc4-8c2d-ce2f2ae85178",
-      "cover": "https://coverartarchive.org/release/342cfe82-a443-4bc4-8c2d-ce2f2ae85178/front-250",
-      "audio": null,
-      "source": "musicbrainz"
-    },
-    {
-      "id": "47a87f6f-1955-4f8b-abed-eec28b0707d5",
-      "title": "Jazz Acid Jazz",
-      "artist": "Chunky Nelson",
-      "artistId": "b8c9b36d-92a7-4c2f-9867-e98a2af2d6b8",
-      "duration": 15,
-      "album": "Promos 7: Chat Show/Lifestyles",
-      "albumId": "d5082e55-4042-4c27-a3dc-e34de37298c8",
-      "cover": "https://coverartarchive.org/release/d5082e55-4042-4c27-a3dc-e34de37298c8/front-250",
-      "audio": null,
-      "source": "musicbrainz"
-    },
-    {
-      "id": "e6c69e0f-8709-4d75-83ac-cde7d769b659",
-      "title": "Jazz Acid Jazz",
-      "artist": "Chunky Nelson",
-      "artistId": "b8c9b36d-92a7-4c2f-9867-e98a2af2d6b8",
-      "duration": 10,
-      "album": "Promos 7: Chat Show/Lifestyles",
-      "albumId": "d5082e55-4042-4c27-a3dc-e34de37298c8",
-      "cover": "https://coverartarchive.org/release/d5082e55-4042-4c27-a3dc-e34de37298c8/front-250",
-      "audio": null,
-      "source": "musicbrainz"
-    },
-    {
-      "id": "73187cb7-b632-40f1-ba30-07451649c8d2",
-      "title": "Jazz Jimi Jazz",
-      "artist": "Jimi Hendrix",
-      "artistId": "06fb1c8b-566e-4cb2-985b-b467c90781d4",
-      "duration": null,
-      "album": "The Master's Masters",
-      "albumId": "8200a77a-87ee-494f-b394-1a0687bad753",
-      "cover": "https://coverartarchive.org/release/8200a77a-87ee-494f-b394-1a0687bad753/front-250",
-      "audio": null,
-      "source": "musicbrainz"
-    },
-    {
-      "id": "bef745b3-1a9d-422c-a243-d0a2d5ae4cbc",
-      "title": "Electronic",
-      "artist": "Ray Clark",
-      "artistId": "8638f68e-24f8-4702-9ab1-79b85483d6f8",
-      "duration": 63,
-      "album": "Techno Top 100, Volume 3",
-      "albumId": "39cf9b22-4de0-440a-9187-2f79ad3b5194",
-      "cover": "https://coverartarchive.org/release/39cf9b22-4de0-440a-9187-2f79ad3b5194/front-250",
-      "audio": null,
-      "source": "musicbrainz"
-    },
-    {
-      "id": "81cf1774-c404-43af-89af-afc87cade957",
-      "title": "Electronic",
-      "artist": "Juantrip’",
-      "artistId": "02bc78ff-8131-4c7d-a994-eb2c8a38c86a",
-      "duration": 274,
-      "album": "Paris: The Sex, the City, the Music",
-      "albumId": "9b61096c-004b-380d-a180-01303ac821b7",
-      "cover": "https://coverartarchive.org/release/9b61096c-004b-380d-a180-01303ac821b7/front-250",
-      "audio": null,
-      "source": "musicbrainz"
-    },
-    {
-      "id": "ee3df6d6-9f1d-4c3d-9db4-d6165980b8a8",
-      "title": "Electronic",
-      "artist": "Imbiss Bronko",
-      "artistId": "82587236-f2e2-4e0d-905a-83d630a115b3",
-      "duration": null,
-      "album": "Fleisch hat immer Saison",
-      "albumId": "6de3f78a-84af-404b-b1c3-47bee85ae6b6",
-      "cover": "https://coverartarchive.org/release/6de3f78a-84af-404b-b1c3-47bee85ae6b6/front-250",
-      "audio": null,
-      "source": "musicbrainz"
-    },
-    {
-      "id": "24340160-a19a-4e84-b7f3-8299c5d9557e",
-      "title": "Electronic",
-      "artist": "Spread the Disease",
-      "artistId": "6d8578cc-fb25-4282-9bbf-aac932a432ea",
-      "duration": 34,
-      "album": "The Sheer Force of Inertia",
-      "albumId": "d1364034-f25e-46ee-a0c7-c9dfb56c8551",
-      "cover": "https://coverartarchive.org/release/d1364034-f25e-46ee-a0c7-c9dfb56c8551/front-250",
-      "audio": null,
-      "source": "musicbrainz"
-    },
-    {
-      "id": "19c59f46-cd73-4dd9-ad3f-6b0175d42249",
-      "title": "Electronic",
-      "artist": "Dave Smith",
-      "artistId": "4ac2e788-f5f4-4efd-9953-785efae924c1",
-      "duration": 30,
-      "album": "Maximum Promotions",
-      "albumId": "e9318f0a-175e-4e55-83b4-40c5466f9200",
-      "cover": "https://coverartarchive.org/release/e9318f0a-175e-4e55-83b4-40c5466f9200/front-250",
-      "audio": null,
-      "source": "musicbrainz"
-    },
-    {
-      "id": "c8abaa8d-a9e1-439f-9088-2fe8d4e1d8e2",
-      "title": "Electronic",
-      "artist": "Spread the Disease",
-      "artistId": "6d8578cc-fb25-4282-9bbf-aac932a432ea",
-      "duration": 14,
-      "album": "The Sheer Force of Inertia",
-      "albumId": "d1364034-f25e-46ee-a0c7-c9dfb56c8551",
-      "cover": "https://coverartarchive.org/release/d1364034-f25e-46ee-a0c7-c9dfb56c8551/front-250",
-      "audio": null,
-      "source": "musicbrainz"
-    },
-    {
-      "id": "bbcd4228-671b-46e0-876a-2230ba312323",
-      "title": "Electronic",
-      "artist": "Model 500",
-      "artistId": "e569aee8-33ff-48e5-b0ed-4ceba1a37714",
-      "duration": null,
-      "album": "Interference / Electronic",
-      "albumId": "feaa8af5-ea8b-4d3e-82c3-2d2f0785647e",
-      "cover": "https://coverartarchive.org/release/feaa8af5-ea8b-4d3e-82c3-2d2f0785647e/front-250",
-      "audio": null,
-      "source": "musicbrainz"
-    },
-    {
-      "id": "31f30fb3-ae5e-4dc2-985a-c7e813c6dc7d",
-      "title": "Electronic",
-      "artist": "N‐Trance",
-      "artistId": "17adce06-a815-4c5b-9be7-e6b184f92ee4",
-      "duration": 143,
-      "album": "Mega Dance Mix ’96, Vol. 1: The Full Speed Dance Trip",
-      "albumId": "3118a495-a208-415a-b9f9-a9e141735955",
-      "cover": "https://coverartarchive.org/release/3118a495-a208-415a-b9f9-a9e141735955/front-250",
-      "audio": null,
-      "source": "musicbrainz"
-    },
-    {
-      "id": "bde0d73a-42e1-44c0-8e74-9ce84447defa",
-      "title": "Electronic",
-      "artist": "John B",
-      "artistId": "353856b7-8d79-4136-9ac6-7e47954e5be9",
-      "duration": 379,
-      "album": "Electrostep (15th Anniversary Edition)",
-      "albumId": "a6658692-6bd7-4d1d-8261-752bdbcdefa9",
-      "cover": "https://coverartarchive.org/release/a6658692-6bd7-4d1d-8261-752bdbcdefa9/front-250",
-      "audio": null,
-      "source": "musicbrainz"
-    },
-    {
-      "id": "f0a42782-b3ad-4a13-a7db-cd4d34e395cb",
-      "title": "Electronic",
-      "artist": "SISU",
-      "artistId": "c5f11764-93e5-492f-b930-63e0fb4734bb",
-      "duration": 245,
-      "album": "Blood Tears",
-      "albumId": "bec35d3c-7f3b-4882-b430-445e5d6ecb06",
-      "cover": "https://coverartarchive.org/release/bec35d3c-7f3b-4882-b430-445e5d6ecb06/front-250",
-      "audio": null,
-      "source": "musicbrainz"
-    },
-    {
-      "id": "d2395ebe-b19b-4f3a-a24e-0820fab1c911",
-      "title": "Electronic",
-      "artist": "Ben Delay & Chris Powell",
-      "artistId": "b0b1c15c-a919-42a5-b0cb-bea47164cff6",
-      "duration": 198,
-      "album": "Sunshine Live House Edition, Volume 5",
-      "albumId": "2d4a1873-89f5-4c84-8501-93f1cd6c9028",
-      "cover": "https://coverartarchive.org/release/2d4a1873-89f5-4c84-8501-93f1cd6c9028/front-250",
-      "audio": null,
-      "source": "musicbrainz"
-    },
-    {
-      "id": "50cd9be9-5e0c-4b9f-9c45-953d764de4ea",
-      "title": "Electronic",
-      "artist": "Mark E. Moon",
-      "artistId": "bda28337-0f4e-41da-8840-9564f788bd86",
-      "duration": 272,
-      "album": "Refer",
-      "albumId": "84cdb07f-79bc-4564-9da6-6216527cbd81",
-      "cover": "https://coverartarchive.org/release/84cdb07f-79bc-4564-9da6-6216527cbd81/front-250",
-      "audio": null,
-      "source": "musicbrainz"
-    },
-    {
-      "id": "c553955c-510a-4545-bd2a-b89da1fe92e2",
-      "title": "Electronic",
-      "artist": "Dynamik Bass System",
-      "artistId": "0d24a6a4-f7c5-404f-a124-ab7d55687d38",
-      "duration": 470,
-      "album": "The Mighty Machine",
-      "albumId": "e942a191-8514-4ee1-8b6a-8fa2b50c1f4b",
-      "cover": "https://coverartarchive.org/release/e942a191-8514-4ee1-8b6a-8fa2b50c1f4b/front-250",
-      "audio": null,
-      "source": "musicbrainz"
-    },
-    {
-      "id": "bdf27b33-0a20-48b8-8ef6-b81408c66334",
-      "title": "Electronic",
-      "artist": "Supercurve",
-      "artistId": "d79eab5c-f34c-4130-b16c-581cc1502de1",
-      "duration": 279,
-      "album": "Frequency EP",
-      "albumId": "133d3ba3-631f-4ebf-bd92-cb22c756507c",
-      "cover": "https://coverartarchive.org/release/133d3ba3-631f-4ebf-bd92-cb22c756507c/front-250",
-      "audio": null,
-      "source": "musicbrainz"
-    },
-    {
-      "id": "ed75069d-74a7-4a73-8313-1381e82c9785",
-      "title": "Electronic",
-      "artist": "Don Voegeli",
-      "artistId": "abb5bfa4-a6ca-452b-ba18-111e9447c9a7",
-      "duration": null,
-      "album": "Four Notes In Search Of A Tune",
-      "albumId": "cd6b763c-e02e-4a78-8d29-52b87d981bc2",
-      "cover": "https://coverartarchive.org/release/cd6b763c-e02e-4a78-8d29-52b87d981bc2/front-250",
-      "audio": null,
-      "source": "musicbrainz"
-    },
-    {
-      "id": "fd11a3bc-7519-4d5b-bfa2-fef61ef945db",
-      "title": "Classical",
-      "artist": "Constatine Sankathi",
-      "artistId": "2392a519-46f2-4d54-a4f1-21d5643b3b7f",
-      "duration": 324,
-      "album": "Discography",
-      "albumId": "b5d9ad51-f8ff-46b3-b2fb-f42bc4d9eeb1",
-      "cover": "https://coverartarchive.org/release/b5d9ad51-f8ff-46b3-b2fb-f42bc4d9eeb1/front-250",
-      "audio": null,
-      "source": "musicbrainz"
-    },
-    {
-      "id": "13ac4a35-423f-4c99-b050-9c7ac63fa0f5",
-      "title": "Classical",
-      "artist": "Woodbine",
-      "artistId": "a26724de-ee49-40c4-ac86-ed77661e29a4",
-      "duration": 212,
-      "album": "Woodbine",
-      "albumId": "5218b881-e234-4e02-a326-477cd4543cb7",
-      "cover": "https://coverartarchive.org/release/5218b881-e234-4e02-a326-477cd4543cb7/front-250",
-      "audio": null,
-      "source": "musicbrainz"
-    },
-    {
-      "id": "f28b81ad-243d-4631-8d40-3cc991962bb2",
-      "title": "Classical",
-      "artist": "8-Bit Arcade",
-      "artistId": "d68e2c4b-8411-4f80-8b55-6682ae70881d",
-      "duration": 255,
-      "album": "By Request, Vol. 259",
-      "albumId": "8be91dfc-5181-4aa9-9511-1fe48c049986",
-      "cover": "https://coverartarchive.org/release/8be91dfc-5181-4aa9-9511-1fe48c049986/front-250",
-      "audio": null,
-      "source": "musicbrainz"
-    },
-    {
-      "id": "9a201ee0-84b3-4319-98db-8241a47a8e3c",
-      "title": "Classical",
-      "artist": "Network Music",
-      "artistId": "3e3a29ab-99ba-4883-8e37-ff38e8d2b2f5",
-      "duration": 87,
-      "album": "Network Music Demo",
-      "albumId": "f93d0488-2c0e-49ee-8e2d-dc063071edff",
-      "cover": "https://coverartarchive.org/release/f93d0488-2c0e-49ee-8e2d-dc063071edff/front-250",
-      "audio": null,
-      "source": "musicbrainz"
-    },
-    {
-      "id": "30ca152e-86a0-416a-b937-64a5974dd8cf",
-      "title": "Classical",
-      "artist": "Fetus Productions",
-      "artistId": "60a223ff-54b1-4f96-92e9-85e052df4f94",
-      "duration": null,
-      "album": "Environmental",
-      "albumId": "70935421-4f39-4efd-9f86-5afb7e234c37",
-      "cover": "https://coverartarchive.org/release/70935421-4f39-4efd-9f86-5afb7e234c37/front-250",
-      "audio": null,
-      "source": "musicbrainz"
-    },
-    {
-      "id": "ec568a8b-d26e-4175-a4b5-f703387294f1",
-      "title": "Classical",
-      "artist": "神谷柚利",
-      "artistId": "823c0b89-5e6b-446d-b9d9-0eef6d522b11",
-      "duration": 167,
-      "album": "IMPRESSION",
-      "albumId": "d3e0888b-f3f5-497a-b28c-94e1e4490588",
-      "cover": "https://coverartarchive.org/release/d3e0888b-f3f5-497a-b28c-94e1e4490588/front-250",
-      "audio": null,
-      "source": "musicbrainz"
-    },
-    {
-      "id": "3338f46e-6ab3-4033-8f96-e77f2523c2a5",
-      "title": "Classical",
-      "artist": "Virginia Plain",
-      "artistId": "e7fd3e30-2306-45e7-bd9c-03594f064594",
-      "duration": 139,
-      "album": "Strange Game",
-      "albumId": "97511f96-f267-4f6f-a97c-fe291954d773",
-      "cover": "https://coverartarchive.org/release/97511f96-f267-4f6f-a97c-fe291954d773/front-250",
-      "audio": null,
-      "source": "musicbrainz"
-    },
-    {
-      "id": "a7d41d93-e03c-4705-b055-1fd15f2fe438",
-      "title": "CLASSICAL",
-      "artist": "Vampire Weekend",
-      "artistId": "af37c51c-0790-4a29-b995-456f98a6b8c9",
-      "duration": 260,
-      "album": "ONLY COACHELLA WAS ABOVE US",
-      "albumId": "a10299fd-3a2a-4cd3-8adf-b704d9a561f9",
-      "cover": "https://coverartarchive.org/release/a10299fd-3a2a-4cd3-8adf-b704d9a561f9/front-250",
-      "audio": null,
-      "source": "musicbrainz"
-    },
-    {
-      "id": "6f87d537-8c2f-45e6-beac-259df2a341d7",
-      "title": "Classical",
-      "artist": "Sick Jacken",
-      "artistId": "7bf7c525-b06b-4dd3-b731-4ed3d6f60778",
-      "duration": 184,
-      "album": "DJ Muggs Presents: Soul Assassins: Intermission",
-      "albumId": "05c1c352-512e-4e22-98e5-ee3c4eb3ce39",
-      "cover": "https://coverartarchive.org/release/05c1c352-512e-4e22-98e5-ee3c4eb3ce39/front-250",
-      "audio": null,
-      "source": "musicbrainz"
-    },
-    {
-      "id": "b3acc84c-f3df-4326-bef0-06c11978c0be",
-      "title": "Classical",
-      "artist": "Hallo, keiner da?",
-      "artistId": "22b353e7-c079-4d03-a978-375580c40d5a",
-      "duration": 49,
-      "album": "Telefonansagen für Ihren Anrufbeantworter",
-      "albumId": "12efe1c9-1e6b-43c4-b86a-924f77819523",
-      "cover": "https://coverartarchive.org/release/12efe1c9-1e6b-43c4-b86a-924f77819523/front-250",
-      "audio": null,
-      "source": "musicbrainz"
-    },
-    {
-      "id": "13db576f-fb04-4c88-bee3-408a5aca6940",
-      "title": "Classical",
-      "artist": "John Zorn",
-      "artistId": "7ec4a553-73e5-4c0d-a071-a82b83a309e6",
-      "duration": 16,
-      "album": "Filmworks VII: Cynical Hysterie Hour",
-      "albumId": "0911ce53-c2f8-45b7-8286-a2751632244f",
-      "cover": "https://coverartarchive.org/release/0911ce53-c2f8-45b7-8286-a2751632244f/front-250",
-      "audio": null,
-      "source": "musicbrainz"
-    },
-    {
-      "id": "cf4eb386-0d70-46ca-ba15-ab36514e1603",
-      "title": "Classical",
-      "artist": "Fetus Productions",
-      "artistId": "60a223ff-54b1-4f96-92e9-85e052df4f94",
-      "duration": null,
-      "album": "Flicker",
-      "albumId": "c693b23c-a2f0-49f9-aa92-77ba6712988c",
-      "cover": "https://coverartarchive.org/release/c693b23c-a2f0-49f9-aa92-77ba6712988c/front-250",
-      "audio": null,
-      "source": "musicbrainz"
-    },
-    {
-      "id": "a2d35516-0954-4dc9-89d1-844416c0e598",
-      "title": "Classical",
-      "artist": "Hood Surgeon",
-      "artistId": "dd70b3ed-80b8-4bc0-860d-2980cd0d0b9d",
-      "duration": 297,
-      "album": "Son of a Doctor",
-      "albumId": "0f294129-2fc8-48e0-9f53-06e53c10602f",
-      "cover": "https://coverartarchive.org/release/0f294129-2fc8-48e0-9f53-06e53c10602f/front-250",
-      "audio": null,
-      "source": "musicbrainz"
-    },
-    {
-      "id": "4d4314b5-562a-474f-9b96-df7d763c809b",
-      "title": "Classical",
-      "artist": "Josh Gray",
-      "artistId": "5c1d9278-cc8d-4bb3-9b32-00a8427e255e",
-      "duration": 104,
-      "album": "Four Instrumentals and an Activist",
-      "albumId": "72c99a9e-c35a-42fb-aa00-b251adafd46f",
-      "cover": "https://coverartarchive.org/release/72c99a9e-c35a-42fb-aa00-b251adafd46f/front-250",
-      "audio": null,
-      "source": "musicbrainz"
-    },
-    {
-      "id": "20ae20f3-a036-4e02-82d8-c829b39700a8",
-      "title": "Classical",
-      "artist": "The Forms",
-      "artistId": "2fdc1bf8-97cb-4b93-962f-d5ae29913433",
-      "duration": 223,
-      "album": "HVY.28.Sumosonic",
-      "albumId": "8369f36a-85a7-4447-839a-57dc9d6337f5",
-      "cover": "https://coverartarchive.org/release/8369f36a-85a7-4447-839a-57dc9d6337f5/front-250",
-      "audio": null,
-      "source": "musicbrainz"
-    },
-    {
-      "id": "0473ae50-c991-4434-ac5a-946d4bed01d4",
-      "title": "Pop Pop Pop Pop",
-      "artist": "Andy Bell",
-      "artistId": "8263126b-9b1a-4509-b88c-fd87e4d22773",
-      "duration": 158,
-      "album": "Non-Stop",
-      "albumId": "205cb602-637b-4396-8dcd-b0fdf0187077",
-      "cover": "https://coverartarchive.org/release/205cb602-637b-4396-8dcd-b0fdf0187077/front-250",
-      "audio": null,
-      "source": "musicbrainz"
-    },
-    {
-      "id": "12a35684-5aa6-488e-a864-41b290689e73",
-      "title": "Pop Pop Pop Pop",
-      "artist": "BLACKSWAN",
-      "artistId": "51f30a96-9fa2-4078-99bb-db2a1cdd9aeb",
-      "duration": 181,
-      "album": "Time to Rock da shoW",
-      "albumId": "c0420dbb-e018-4577-8dd3-d4957c38a94f",
-      "cover": "https://coverartarchive.org/release/c0420dbb-e018-4577-8dd3-d4957c38a94f/front-250",
-      "audio": null,
-      "source": "musicbrainz"
-    },
-    {
-      "id": "86a7c2e6-fa7b-4c70-99f5-356c2962e42c",
-      "title": "Pop Pop Pop Pop",
-      "artist": "Cape Lion",
-      "artistId": "268d14d0-d4e6-4f79-891f-64ca9361290a",
-      "duration": 120,
-      "album": "Piscolabis",
-      "albumId": "bed0f01c-d2aa-42ca-96ea-3f6887c216a8",
-      "cover": "https://coverartarchive.org/release/bed0f01c-d2aa-42ca-96ea-3f6887c216a8/front-250",
-      "audio": null,
-      "source": "musicbrainz"
-    },
-    {
-      "id": "218909a2-5032-425e-bee1-09c2922e424f",
-      "title": "Pop Pop Pop Pop Pop Pop Pop Stop",
-      "artist": "Lézard",
-      "artistId": "ddfb4558-4766-4d9e-96ed-df3297063c64",
-      "duration": 180,
-      "album": "Que se passe-t-il",
-      "albumId": "e0bcecd5-80b3-48c5-ba72-2fd17f2a6d43",
-      "cover": "https://coverartarchive.org/release/e0bcecd5-80b3-48c5-ba72-2fd17f2a6d43/front-250",
-      "audio": null,
-      "source": "musicbrainz"
-    },
-    {
-      "id": "5a9e6eb9-d073-4fce-b880-589d46f5837b",
-      "title": "Pop Pop Pop Pop Pop Pop Pop Stop",
-      "artist": "Lézard",
-      "artistId": "ddfb4558-4766-4d9e-96ed-df3297063c64",
-      "duration": 179,
-      "album": "How Does It Feel?",
-      "albumId": "3b02d3ba-aff9-426f-b869-ee15d546f3ad",
-      "cover": "https://coverartarchive.org/release/3b02d3ba-aff9-426f-b869-ee15d546f3ad/front-250",
-      "audio": null,
-      "source": "musicbrainz"
-    },
-    {
-      "id": "6c47ec4c-ea45-4e9c-ae63-f75cd1da7916",
-      "title": "Pop Pop Pop",
-      "artist": "Wimpy Dicks",
-      "artistId": "f1c446a9-44fe-4287-be97-380c856bdbad",
-      "duration": null,
-      "album": "S.L.O. Bored",
-      "albumId": "56bf157d-a4cd-490e-97b3-6c7921ca2cac",
-      "cover": "https://coverartarchive.org/release/56bf157d-a4cd-490e-97b3-6c7921ca2cac/front-250",
-      "audio": null,
-      "source": "musicbrainz"
-    },
-    {
-      "id": "26637f43-0ef8-4b77-9bb1-1dba1fdcde96",
-      "title": "Pop Pop Pop",
-      "artist": "Naughty by Nature",
-      "artistId": "3bdcd49d-212e-4f4f-877a-eac1e4a2bddc",
-      "duration": 215,
-      "album": "Illtown Sluggaz",
-      "albumId": "2f3844f4-5416-4a58-a454-765cedacd24e",
-      "cover": "https://coverartarchive.org/release/2f3844f4-5416-4a58-a454-765cedacd24e/front-250",
-      "audio": null,
-      "source": "musicbrainz"
-    },
-    {
-      "id": "417ab243-e73f-4284-8335-7dabeae3b340",
-      "title": "Pop Pop Pop",
-      "artist": "The Ambassador",
-      "artistId": "669a0829-f19b-4bdd-9958-fb883ad7c178",
-      "duration": 236,
-      "album": "Stop the Funeral",
-      "albumId": "e909d919-c9e1-408a-9fc2-6021eb8b9424",
-      "cover": "https://coverartarchive.org/release/e909d919-c9e1-408a-9fc2-6021eb8b9424/front-250",
-      "audio": null,
-      "source": "musicbrainz"
-    },
-    {
-      "id": "ebbbb7ff-ef0d-4fc3-997e-f2dda67b89e9",
-      "title": "Pop, Pop, Pop",
-      "artist": "Victorian Halls",
-      "artistId": "db65e3aa-c49c-4918-a20e-e0b0f9a30156",
-      "duration": 189,
-      "album": "Springsteen",
-      "albumId": "dc0038df-80fc-45a6-8e42-8937b9dacc24",
-      "cover": "https://coverartarchive.org/release/dc0038df-80fc-45a6-8e42-8937b9dacc24/front-250",
-      "audio": null,
-      "source": "musicbrainz"
-    },
-    {
-      "id": "24f9208e-9a2b-46b9-a33f-d7099d5cf2f4",
-      "title": "Pop, Pop, Pop",
-      "artist": "your best friend jippy",
-      "artistId": "1f53b0f0-a029-4c39-9049-0fba8011fb28",
-      "duration": 77,
-      "album": "BEAT TAPE 31.",
-      "albumId": "cc0a1872-a694-4679-8b8e-640bfb146424",
-      "cover": "https://coverartarchive.org/release/cc0a1872-a694-4679-8b8e-640bfb146424/front-250",
-      "audio": null,
-      "source": "musicbrainz"
-    },
-    {
-      "id": "ff81ddfe-533f-4707-8495-9ff7c28f7b61",
-      "title": "POP!POP!POP!",
-      "artist": "ぽらぽら。",
-      "artistId": "7663d532-8985-46eb-b2cd-06046eafb3c1",
-      "duration": 252,
-      "album": "PORARION WORLD",
-      "albumId": "a5063452-d941-4706-8f7b-c327e6f508b7",
-      "cover": "https://coverartarchive.org/release/a5063452-d941-4706-8f7b-c327e6f508b7/front-250",
-      "audio": null,
-      "source": "musicbrainz"
-    },
-    {
-      "id": "2f7261cc-b4fd-45ab-a805-410ee24f4cf0",
-      "title": "POP POP POP",
-      "artist": "IDLES",
-      "artistId": "be465d4f-c28d-4ba1-94ab-ebaada7db8af",
-      "duration": 200,
-      "album": "POP POP POP",
-      "albumId": "07ecc342-eaae-4122-8b81-2a07d110236a",
-      "cover": "https://coverartarchive.org/release/07ecc342-eaae-4122-8b81-2a07d110236a/front-250",
-      "audio": null,
-      "source": "musicbrainz"
-    },
-    {
-      "id": "9b4c2987-11fd-49cc-a61a-dfbbbe841d28",
-      "title": "Pop pop pop",
-      "artist": "Eppu Normaali",
-      "artistId": "1bdd1d2d-5974-46e7-8003-2e2ee3176653",
-      "duration": 170,
-      "album": "Osaa mieskin sanoittaa - Mikko Saarelan lyriikoita eestä äffään",
-      "albumId": "e3c3b87a-2eb3-45a5-a2a7-610a37745194",
-      "cover": "https://coverartarchive.org/release/e3c3b87a-2eb3-45a5-a2a7-610a37745194/front-250",
-      "audio": null,
-      "source": "musicbrainz"
-    },
-    {
-      "id": "c9ba7b16-e2a0-465b-a381-5d7c568e1f64",
-      "title": "POP POP POP",
-      "artist": "LoLo",
-      "artistId": "5b5eadc8-4be8-4de6-b247-3497a0043c99",
-      "duration": 93,
-      "album": "JOSEO EXCLUSIVE CLUB.",
-      "albumId": "9055a671-f458-4de1-9e00-2b4fd15fcf01",
-      "cover": "https://coverartarchive.org/release/9055a671-f458-4de1-9e00-2b4fd15fcf01/front-250",
-      "audio": null,
-      "source": "musicbrainz"
-    },
-    {
-      "id": "d5be2a61-32a9-4d06-ac12-3b70c539446e",
-      "title": "Pop pop pop",
-      "artist": "Playsongs",
-      "artistId": "6536196a-5a2b-4078-973d-f69d597c818d",
-      "duration": 37,
-      "album": "Playsongs",
-      "albumId": "c2b7616a-e664-41a4-8257-b9ad681545c9",
-      "cover": "https://coverartarchive.org/release/c2b7616a-e664-41a4-8257-b9ad681545c9/front-250",
-      "audio": null,
-      "source": "musicbrainz"
+      "id": "B3A52A7A958BF0AED0EBFBA2E9A818B7",
+      "title": "晴天",
+      "artist": "周杰伦",
+      "artistId": "a-周杰伦",
+      "duration": 0,
+      "album": "叶惠美",
+      "cover": "http://imge.kugou.com/stdmusic/150/20230920/20230920142503632013.jpg",
+      "audio": null,
+      "source": "kugou"
+    },
+    {
+      "id": "36BDC40148B5DFC06C625860883897AF",
+      "title": "晴天 (R&B版)",
+      "artist": "曾培宇Jackie、悦朵朵",
+      "artistId": "a-曾培宇Jackie、悦朵朵",
+      "duration": 0,
+      "album": "2026超好听R&B合集",
+      "cover": "http://imge.kugou.com/stdmusic/150/20260227/20260227143402825961.jpg",
+      "audio": "https://sharefs.kugou.com/202602281650/e5f65b3e2779c13d54ca547bb339e188/v3/36bdc40148b5dfc06c625860883897af/yp/full/ap1000_us0_pi409_s3846027673.mp3",
+      "source": "kugou"
+    },
+    {
+      "id": "91A662A6DD6F74A96B0A7609EAEFDF3A",
+      "title": "晴天 (温柔女声版)",
+      "artist": "吉拉朵",
+      "artistId": "a-吉拉朵",
+      "duration": 0,
+      "album": "晴天 (温柔女声版)",
+      "cover": "http://imge.kugou.com/stdmusic/150/20230417/20230417153347394677.jpg",
+      "audio": "https://sharefs.kugou.com/202602281650/e6c074145caf6c09684d5ef7c16e6421/v3/91a662a6dd6f74a96b0a7609eaefdf3a/yp/full/ap1000_us0_pi409_s732564887.mp3",
+      "source": "kugou"
+    },
+    {
+      "id": "80E0B5BDD9ACFDF9532F6D4733A26F67",
+      "title": "晴天 (合唱版Live)",
+      "artist": "易广成",
+      "artistId": "a-易广成",
+      "duration": 0,
+      "album": null,
+      "cover": "http://singerimg.kugou.com/uploadpic/softhead/150/20190111/20190111142513778382.jpg",
+      "audio": null,
+      "source": "kugou"
+    },
+    {
+      "id": "48C685F679FFC7CF08B8A8341CA9DB44",
+      "title": "晴天",
+      "artist": "蓝心羽",
+      "artistId": "a-蓝心羽",
+      "duration": 0,
+      "album": "网瘾少女叽",
+      "cover": "http://imge.kugou.com/stdmusic/150/20231016/20231016104901469008.jpg",
+      "audio": "https://sharefs.kugou.com/202602281650/f99d21b5158ca7d64e1abfb0f4baa733/v3/48c685f679ffc7cf08b8a8341ca9db44/yp/full/ap1000_us0_pi409_s3161048046.mp3",
+      "source": "kugou"
+    },
+    {
+      "id": "0DF69FAEAEAC7358E4665BC7ACD72B5F",
+      "title": "晴天 (女声独唱版)",
+      "artist": "梅菜扣肉肉",
+      "artistId": "a-梅菜扣肉肉",
+      "duration": 0,
+      "album": "晴天 (独唱版)",
+      "cover": "http://imge.kugou.com/stdmusic/150/20250311/20250311105011345409.jpg",
+      "audio": null,
+      "source": "kugou"
+    },
+    {
+      "id": "25401378AF7F84258A60D2A3FB3463D3",
+      "title": "晴天",
+      "artist": "欧阳耀莹",
+      "artistId": "a-欧阳耀莹",
+      "duration": 0,
+      "album": "欧阳耀莹 Cover合辑",
+      "cover": "http://imge.kugou.com/stdmusic/150/20190704/20190704164930471810.jpg",
+      "audio": null,
+      "source": "kugou"
+    },
+    {
+      "id": "F4500A08ED5404FD20101AA156E60074",
+      "title": "晴天 (remix: Jay Chou)",
+      "artist": "jaycd",
+      "artistId": "a-jaycd",
+      "duration": 0,
+      "album": "从前从前有个人爱你很久",
+      "cover": "http://imge.kugou.com/stdmusic/150/20210216/20210216230502837271.jpg",
+      "audio": "https://sharefs.kugou.com/202602281650/bdbb0560d143552286bec33b81f3c3c8/v3/f4500a08ed5404fd20101aa156e60074/yp/full/ap1000_us0_pi409_s1426856258.mp3",
+      "source": "kugou"
+    },
+    {
+      "id": "8909E1809908CD8E3BF6CF85D98B93F0",
+      "title": "稻香",
+      "artist": "周杰伦",
+      "artistId": "a-周杰伦",
+      "duration": 0,
+      "album": "魔杰座",
+      "cover": "http://imge.kugou.com/stdmusic/150/20241118/20241118160622508429.jpg",
+      "audio": null,
+      "source": "kugou"
+    },
+    {
+      "id": "884F13CFF4F49C9D6327A1DFDF880573",
+      "title": "稻香 (2018 CCTV-15音乐频道精彩音乐汇现场)",
+      "artist": "周杰伦",
+      "artistId": "a-周杰伦",
+      "duration": 0,
+      "album": null,
+      "cover": "http://singerimg.kugou.com/uploadpic/softhead/150/20241112/20241112153406328180.jpg",
+      "audio": "https://sharefs.kugou.com/202602281650/50b507a916809b5d0bae9018f48cc1d6/v3/884f13cff4f49c9d6327a1dfdf880573/yp/full/ap1000_us0_pi409_s4024829405.mp3",
+      "source": "kugou"
+    },
+    {
+      "id": "5BAB14E2381F2E8033306F8EB43FAEC4",
+      "title": "稻香 (童声版)",
+      "artist": "贝瓦儿歌",
+      "artistId": "a-贝瓦儿歌",
+      "duration": 0,
+      "album": "稻香 (童声版)",
+      "cover": "http://imge.kugou.com/stdmusic/150/20250625/20250625173541134058.jpg",
+      "audio": "https://sharefs.kugou.com/202602281650/5c3bb734cca101fcb6c1f9b185c4d37b/v3/5bab14e2381f2e8033306f8eb43faec4/yp/full/ap1000_us0_pi409_s2642487074.mp3",
+      "source": "kugou"
+    },
+    {
+      "id": "F5CBDB9F625FFCBCFED707DD56DC9C6C",
+      "title": "稻香 (女声版)",
+      "artist": "余不不",
+      "artistId": "a-余不不",
+      "duration": 0,
+      "album": "稻香 (女声版)",
+      "cover": "http://imge.kugou.com/stdmusic/150/20241116/20241116062805893172.jpg",
+      "audio": "https://sharefs.kugou.com/202602281650/47c01ab3b1ddc0da55000b5f5717b41f/v3/f5cbdb9f625ffcbcfed707dd56dc9c6c/yp/full/ap1000_us0_pi409_s1426758896.mp3",
+      "source": "kugou"
+    },
+    {
+      "id": "B5FB24746AF437BE697BFDBC7BA997E7",
+      "title": "稻香 (Live)",
+      "artist": "周杰伦",
+      "artistId": "a-周杰伦",
+      "duration": 0,
+      "album": "The Era 2010 超时代演唱会",
+      "cover": "http://imge.kugou.com/stdmusic/150/20220718/20220718150701123137.jpg",
+      "audio": null,
+      "source": "kugou"
+    },
+    {
+      "id": "74A79113F51D559728430C96EF5C7F9A",
+      "title": "稻香 (3D环绕版)",
+      "artist": "周杰伦",
+      "artistId": "a-周杰伦",
+      "duration": 0,
+      "album": null,
+      "cover": "http://singerimg.kugou.com/uploadpic/softhead/150/20241112/20241112153406328180.jpg",
+      "audio": null,
+      "source": "kugou"
+    },
+    {
+      "id": "8E9775CDDF5FEB72D46F4F833631117A",
+      "title": "稻香 (吉他版)",
+      "artist": "白允y",
+      "artistId": "a-白允y",
+      "duration": 0,
+      "album": "稻香 (吉他版)",
+      "cover": "http://imge.kugou.com/stdmusic/150/20250101/20250101165030613450.jpg",
+      "audio": "https://sharefs.kugou.com/202602281650/c67566ec64513150456240eada27ba4f/v3/8e9775cddf5feb72d46f4f833631117a/yp/full/ap1000_us0_pi409_s546781050.mp3",
+      "source": "kugou"
+    },
+    {
+      "id": "6AFB02B5438F755BBA767D9FF664A615",
+      "title": "稻香 (Remix摇滚版)",
+      "artist": "周杰伦",
+      "artistId": "a-周杰伦",
+      "duration": 0,
+      "album": "稻香 (Remix摇滚版)",
+      "cover": "http://imge.kugou.com/stdmusic/150/20240702/20240702162804652452.jpg",
+      "audio": null,
+      "source": "kugou"
+    },
+    {
+      "id": "2C7CEB6CC2340ECC8948E0ACE62F0CF8",
+      "title": "七里香",
+      "artist": "周杰伦",
+      "artistId": "a-周杰伦",
+      "duration": 0,
+      "album": "七里香",
+      "cover": "http://imge.kugou.com/stdmusic/150/20250125/20250125121745628430.jpg",
+      "audio": null,
+      "source": "kugou"
+    },
+    {
+      "id": "188522D1DAB3774A1D313C3DCD3E187F",
+      "title": "七里香 (女声版)",
+      "artist": "吉拉朵",
+      "artistId": "a-吉拉朵",
+      "duration": 0,
+      "album": "七里香 (女声版)",
+      "cover": "http://imge.kugou.com/stdmusic/150/20220418/20220418111101340106.jpg",
+      "audio": "https://sharefs.kugou.com/202602281650/f26a3b5db15de93f577649719ac592b1/v3/188522d1dab3774a1d313c3dcd3e187f/yp/full/ap1000_us0_pi409_s2666988968.mp3",
+      "source": "kugou"
+    },
+    {
+      "id": "A961FE36799604D96D3D47624414F88C",
+      "title": "七里香 (Live)",
+      "artist": "周杰伦",
+      "artistId": "a-周杰伦",
+      "duration": 0,
+      "album": "周杰伦 2004 无与伦比 演唱会 Live CD",
+      "cover": "http://imge.kugou.com/stdmusic/150/20250407/20250407171310989593.jpg",
+      "audio": null,
+      "source": "kugou"
+    },
+    {
+      "id": "5820C68431418EA0A2F7F30888B5F21A",
+      "title": "七里香 (DJ阿智版)",
+      "artist": "吉拉朵",
+      "artistId": "a-吉拉朵",
+      "duration": 0,
+      "album": "DJ阿智Remix",
+      "cover": "http://imge.kugou.com/stdmusic/150/20230906/20230906202246333207.jpg",
+      "audio": "https://sharefs.kugou.com/202602281650/30f3bda6ea702e970827b06c18bb1e87/v3/5820c68431418ea0a2f7f30888b5f21a/yp/full/ap1000_us0_pi409_s451246418.mp3",
+      "source": "kugou"
+    },
+    {
+      "id": "4CF5893E0C105938DCFC56740528EEB5",
+      "title": "七里香",
+      "artist": "刘瑞琦",
+      "artistId": "a-刘瑞琦",
+      "duration": 0,
+      "album": "再次寻找周杰伦",
+      "cover": "http://imge.kugou.com/stdmusic/150/20200909/20200909120651754547.jpg",
+      "audio": "https://sharefs.kugou.com/202602281650/91ce60f5f5b006126f00fa2052dfa42e/v3/4cf5893e0c105938dcfc56740528eeb5/yp/full/ap1000_us0_pi409_s1632730973.mp3",
+      "source": "kugou"
+    },
+    {
+      "id": "EC079EE3C486346E1165D2C91FA684BF",
+      "title": "七里香",
+      "artist": "白允y",
+      "artistId": "a-白允y",
+      "duration": 0,
+      "album": "七里香（雨下整夜我的爱溢出就像雨水）for流浪",
+      "cover": "http://imge.kugou.com/stdmusic/150/20250417/20250417225116270484.jpg",
+      "audio": "https://sharefs.kugou.com/202602281650/15c526a83e006eede17e9e36ae1dab17/v3/ec079ee3c486346e1165d2c91fa684bf/yp/full/ap1000_us0_pi409_s1343035061.mp3",
+      "source": "kugou"
+    },
+    {
+      "id": "2C7D4F9067511004C6A7B0B985350AEF",
+      "title": "七里香",
+      "artist": "姜创钢琴",
+      "artistId": "a-姜创钢琴",
+      "duration": 0,
+      "album": "姜创钢琴改编作品集",
+      "cover": "http://imge.kugou.com/stdmusic/150/20190809/20190809170703350186.jpg",
+      "audio": "https://sharefs.kugou.com/202602281650/7a7a1f65592abf2b675f5d62e276a391/v3/2c7d4f9067511004c6a7b0b985350aef/yp/full/ap1000_us0_pi409_s3057160108.mp3",
+      "source": "kugou"
+    },
+    {
+      "id": "B12511685FC6BC973BE3980CBD97364B",
+      "title": "七里香 (甜蜜版)",
+      "artist": "白允y",
+      "artistId": "a-白允y",
+      "duration": 0,
+      "album": "七里香 (抖音甜蜜版)",
+      "cover": "http://imge.kugou.com/stdmusic/150/20241231/20241231204604705449.jpg",
+      "audio": "https://sharefs.kugou.com/202602281650/3cf2a585502300a40a9eadb415b164a0/v3/b12511685fc6bc973be3980cbd97364b/yp/full/ap1000_us0_pi409_s2825955656.mp3",
+      "source": "kugou"
+    },
+    {
+      "id": "16C8AB298231370293D16BCF9E5FF9B6",
+      "title": "夜曲",
+      "artist": "周杰伦",
+      "artistId": "a-周杰伦",
+      "duration": 0,
+      "album": "十一月的萧邦",
+      "cover": "http://imge.kugou.com/stdmusic/150/20250125/20250125121901851911.jpg",
+      "audio": null,
+      "source": "kugou"
+    },
+    {
+      "id": "A097C5845FA9D429A74ED85D06B2FA68",
+      "title": "夜曲 (Live)",
+      "artist": "周杰伦",
+      "artistId": "a-周杰伦",
+      "duration": 0,
+      "album": "2007世界巡回演唱会",
+      "cover": "http://imge.kugou.com/stdmusic/150/20250125/20250125121906767600.jpg",
+      "audio": null,
+      "source": "kugou"
+    },
+    {
+      "id": "93645E07090D7CE95C2E2896D6E2658D",
+      "title": "夜曲 (粤语版)",
+      "artist": "常颖杰",
+      "artistId": "a-常颖杰",
+      "duration": 0,
+      "album": "不是陈Eason",
+      "cover": "http://imge.kugou.com/stdmusic/150/20250101/20250101163109345727.jpg",
+      "audio": null,
+      "source": "kugou"
+    },
+    {
+      "id": "6C34C92E4DF41635EFB8ACFC741E4058",
+      "title": "夜曲 (女声版)",
+      "artist": "王一只",
+      "artistId": "a-王一只",
+      "duration": 0,
+      "album": "夜曲",
+      "cover": "http://imge.kugou.com/stdmusic/150/20230606/20230606161302612423.jpg",
+      "audio": null,
+      "source": "kugou"
+    },
+    {
+      "id": "3F9C3F9FA8A5E6911C2ACE591B761B6E",
+      "title": "夜曲 (DJ弹鼓版)",
+      "artist": "唐小力",
+      "artistId": "a-唐小力",
+      "duration": 0,
+      "album": "花海",
+      "cover": "http://imge.kugou.com/stdmusic/150/20211029/20211029220700727565.jpg",
+      "audio": "https://sharefs.kugou.com/202602281651/e2d3e9111e516847d701442ddf3aa0f7/v3/3f9c3f9fa8a5e6911c2ace591b761b6e/yp/full/ap1000_us0_pi409_s627230491.mp3",
+      "source": "kugou"
+    },
+    {
+      "id": "420434B39C282141194F58C180B58150",
+      "title": "夜曲",
+      "artist": "白允y",
+      "artistId": "a-白允y",
+      "duration": 0,
+      "album": "JAY",
+      "cover": "http://imge.kugou.com/stdmusic/150/20250221/20250221211725948960.jpg",
+      "audio": "https://sharefs.kugou.com/202602281651/2163b036ead3bd5e89a52eb7b7559c5b/v3/420434b39c282141194f58c180b58150/yp/full/ap1000_us0_pi409_s3424444362.mp3",
+      "source": "kugou"
+    },
+    {
+      "id": "5DDD4C4C630E3E20E5A16CF9B1CE00A1",
+      "title": "夜曲 (2019地表最强世界巡回演唱会)",
+      "artist": "周杰伦",
+      "artistId": "a-周杰伦",
+      "duration": 0,
+      "album": null,
+      "cover": "http://singerimg.kugou.com/uploadpic/softhead/150/20241112/20241112153406328180.jpg",
+      "audio": "https://sharefs.kugou.com/202602281651/e97eea31eacef10a314d4a2e09c02bef/v3/5ddd4c4c630e3e20e5a16cf9b1ce00a1/yp/full/ap1000_us0_pi409_s2979615755.mp3",
+      "source": "kugou"
+    },
+    {
+      "id": "9C533887E697B85458F9E713B81BA743",
+      "title": "夜曲 (哈基米版)",
+      "artist": "慎啸",
+      "artistId": "a-慎啸",
+      "duration": 0,
+      "album": null,
+      "cover": null,
+      "audio": "https://sharefs.kugou.com/202602281651/4d773a23bc172ebd19cd126e54efdf88/v3/9c533887e697b85458f9e713b81ba743/yp/full/ap1000_us0_pi409_s1129752917.mp3",
+      "source": "kugou"
+    },
+    {
+      "id": "3328808CECBD1A1038166003840FDDD7",
+      "title": "花海",
+      "artist": "周杰伦",
+      "artistId": "a-周杰伦",
+      "duration": 0,
+      "album": "魔杰座",
+      "cover": "http://imge.kugou.com/stdmusic/150/20241118/20241118160622508429.jpg",
+      "audio": null,
+      "source": "kugou"
+    },
+    {
+      "id": "514AF2D2B993E1A4BFFD0DF3EDA31874",
+      "title": "花海 (DJ 阿若版)",
+      "artist": "周杰伦、DJ阿若",
+      "artistId": "a-周杰伦、DJ阿若",
+      "duration": 0,
+      "album": "魔杰座 DJ 阿若版",
+      "cover": "http://imge.kugou.com/stdmusic/150/20241118/20241118160622508429.jpg",
+      "audio": "https://sharefs.kugou.com/202602281651/74a076f85f673d14707b3aaf8b4d7fdd/v3/514af2d2b993e1a4bffd0df3eda31874/yp/full/ap1000_us0_pi409_s1467221557.mp3",
+      "source": "kugou"
+    },
+    {
+      "id": "29B24C14D7365AE9F50B8836DB40C64C",
+      "title": "花海",
+      "artist": "枯北",
+      "artistId": "a-枯北",
+      "duration": 0,
+      "album": "枯北",
+      "cover": "http://imge.kugou.com/stdmusic/150/20251220/20251220055627828599.jpg",
+      "audio": "https://sharefs.kugou.com/202602281651/f6c1654ebe680adaad29824cf5feacd3/v3/29b24c14d7365ae9f50b8836db40c64c/yp/full/ap1000_us0_pi409_s529727345.mp3",
+      "source": "kugou"
+    },
+    {
+      "id": "29C530B5AA07EFD6F5A4C837D02DD29E",
+      "title": "花海 (纯音乐钢琴版)",
+      "artist": "耀温顺",
+      "artistId": "a-耀温顺",
+      "duration": 0,
+      "album": "你就是我的命中注定",
+      "cover": "http://imge.kugou.com/stdmusic/150/20200930/20200930132904316403.jpg",
+      "audio": "https://sharefs.kugou.com/202602281651/1923fffe9255dcd35bc63313d442b78e/v3/29c530b5aa07efd6f5a4c837d02dd29e/yp/full/ap1000_us0_pi409_s670965461.mp3",
+      "source": "kugou"
+    },
+    {
+      "id": "97DF6E07953E9777FD627F02A63CC054",
+      "title": "花海 (女声版)",
+      "artist": "夏奈",
+      "artistId": "a-夏奈",
+      "duration": 0,
+      "album": null,
+      "cover": "http://singerimg.kugou.com/uploadpic/softhead/150/20230420/20230420210018646245.jpg",
+      "audio": "https://sharefs.kugou.com/202602281651/98697778a1f0cc63ef3af2f91fd54d3b/v3/97df6e07953e9777fd627f02a63cc054/yp/full/ap1000_us0_pi409_s2531773041.mp3",
+      "source": "kugou"
+    },
+    {
+      "id": "F8DE1DFDFF5F9A1150C28F920A2A93C6",
+      "title": "花海 (DJ版)",
+      "artist": "周杰伦",
+      "artistId": "a-周杰伦",
+      "duration": 0,
+      "album": "晓看天色暮看云",
+      "cover": "http://imge.kugou.com/stdmusic/150/20250101/20250101164948635634.jpg",
+      "audio": "https://sharefs.kugou.com/202602281651/01967c633e57d3a4c5e47c26414e634e/v3/f8de1dfdff5f9a1150c28f920a2a93c6/yp/full/ap1000_us0_pi409_s1186212727.mp3",
+      "source": "kugou"
+    },
+    {
+      "id": "29B64C24830E95468207553A83005B1E",
+      "title": "花海 (网友改编)",
+      "artist": "周杰伦",
+      "artistId": "a-周杰伦",
+      "duration": 0,
+      "album": null,
+      "cover": "http://singerimg.kugou.com/uploadpic/softhead/150/20241112/20241112153406328180.jpg",
+      "audio": null,
+      "source": "kugou"
+    },
+    {
+      "id": "2287BEFF5726A892B8ECD050A17008F2",
+      "title": "花海 (女声版)",
+      "artist": "梅菜扣肉肉",
+      "artistId": "a-梅菜扣肉肉",
+      "duration": 0,
+      "album": "花海 (女声版)",
+      "cover": "http://imge.kugou.com/stdmusic/150/20231022/20231022211401390973.jpg",
+      "audio": null,
+      "source": "kugou"
+    },
+    {
+      "id": "688857974673645CE89EDA26A36DB19D",
+      "title": "告白气球",
+      "artist": "周杰伦",
+      "artistId": "a-周杰伦",
+      "duration": 0,
+      "album": "周杰伦的床边故事",
+      "cover": "http://imge.kugou.com/stdmusic/150/20200620/20200620103601113025.jpg",
+      "audio": null,
+      "source": "kugou"
+    },
+    {
+      "id": "62D68F028E1FEDF15D9CBBA05F80C6D0",
+      "title": "告白气球 (R&B版)",
+      "artist": "曾培宇Jackie、悦朵朵",
+      "artistId": "a-曾培宇Jackie、悦朵朵",
+      "duration": 0,
+      "album": "2026超好听R&B合集",
+      "cover": "http://imge.kugou.com/stdmusic/150/20260227/20260227143402825961.jpg",
+      "audio": "https://sharefs.kugou.com/202602281651/81e45d0ed660981714e9c3d1c4e6168f/v3/62d68f028e1fedf15d9cbba05f80c6d0/yp/full/ap1000_us0_pi409_s2713243999.mp3",
+      "source": "kugou"
+    },
+    {
+      "id": "F4726605D01122AD14206E4EBFD3D2E1",
+      "title": "告白气球",
+      "artist": "二珂",
+      "artistId": "a-二珂",
+      "duration": 0,
+      "album": null,
+      "cover": "http://singerimg.kugou.com/uploadpic/softhead/150/20231009/20231009144529641.jpg",
+      "audio": "https://sharefs.kugou.com/202602281651/b66e71aae4fd0431fccd6ca3735c2664/v3/f4726605d01122ad14206e4ebfd3d2e1/yp/full/ap1000_us0_pi409_s2068460600.mp3",
+      "source": "kugou"
+    },
+    {
+      "id": "2598A3BB5CA87E39958D77BF465CD062",
+      "title": "告白气球 (3D环绕版)",
+      "artist": "周杰伦",
+      "artistId": "a-周杰伦",
+      "duration": 0,
+      "album": null,
+      "cover": "http://singerimg.kugou.com/uploadpic/softhead/150/20241112/20241112153406328180.jpg",
+      "audio": "https://sharefs.kugou.com/202602281651/1caca0a3f3a7a07e9fd54c122ab9711c/v3/2598a3bb5ca87e39958d77bf465cd062/yp/full/ap1000_us0_pi409_s1817998244.mp3",
+      "source": "kugou"
+    },
+    {
+      "id": "AD8AA667FF9201B83834F283D1B09CAC",
+      "title": "告白气球 (钢琴版)",
+      "artist": "JESSE T",
+      "artistId": "a-JESSE T",
+      "duration": 0,
+      "album": "告白气球(钢琴版)",
+      "cover": "http://imge.kugou.com/stdmusic/150/20191009/20191009174330940669.jpg",
+      "audio": "https://sharefs.kugou.com/202602281651/806c521c878cfe667494252a1a316912/v3/ad8aa667ff9201b83834f283d1b09cac/yp/full/ap1000_us0_pi409_s3057810935.mp3",
+      "source": "kugou"
+    },
+    {
+      "id": "9B20EEE35C425FD4925F6AB70E539D8E",
+      "title": "告白气球 (DJ顾子康、DJ苏可可版)",
+      "artist": "周杰伦",
+      "artistId": "a-周杰伦",
+      "duration": 0,
+      "album": "春娇与志明",
+      "cover": "http://imge.kugou.com/stdmusic/150/20210406/20210406144954589264.jpg",
+      "audio": "https://sharefs.kugou.com/202602281651/34af6a86ffb6e9d7b55569c38dfb0b01/v3/9b20eee35c425fd4925f6ab70e539d8e/yp/full/ap1000_us0_pi409_s534948701.mp3",
+      "source": "kugou"
+    },
+    {
+      "id": "188797E63318F438F32BD85B4092895C",
+      "title": "告白气球 (Live)",
+      "artist": "成毅",
+      "artistId": "a-成毅",
+      "duration": 0,
+      "album": "2016安徽卫视国剧盛典",
+      "cover": "http://imge.kugou.com/stdmusic/150/20250217/20250217144424621953.jpg",
+      "audio": "https://sharefs.kugou.com/202602281651/d32f7131d3060bd21602a98338606bb5/v3/188797e63318f438f32bd85b4092895c/yp/full/ap1000_us0_pi409_s2588757872.mp3",
+      "source": "kugou"
+    },
+    {
+      "id": "5B8B4FEABB65FD5F24243CF13B21CE5E",
+      "title": "告白气球",
+      "artist": "童可可",
+      "artistId": "a-童可可",
+      "duration": 0,
+      "album": null,
+      "cover": "http://singerimg.kugou.com/uploadpic/softhead/150/20231008/20231008181119704789.jpg",
+      "audio": "https://sharefs.kugou.com/202602281651/8a78757ba53f72cecb357a127899e46c/v3/5b8b4feabb65fd5f24243cf13b21ce5e/yp/full/ap1000_us0_pi409_s2898086695.mp3",
+      "source": "kugou"
+    },
+    {
+      "id": "892B7AD62499C97A1A994454423E30F6",
+      "title": "说好的幸福呢",
+      "artist": "周杰伦",
+      "artistId": "a-周杰伦",
+      "duration": 0,
+      "album": "魔杰座",
+      "cover": "http://imge.kugou.com/stdmusic/150/20241118/20241118160622508429.jpg",
+      "audio": null,
+      "source": "kugou"
+    },
+    {
+      "id": "819B914D8799FFD7C679E79B4ACD5B37",
+      "title": "说好的幸福呢 (降调版)",
+      "artist": "Kiiiu_",
+      "artistId": "a-Kiiiu_",
+      "duration": 0,
+      "album": null,
+      "cover": "http://singerimg.kugou.com/uploadpic/softhead/150/20230420/20230420152844994857.jpg",
+      "audio": "https://sharefs.kugou.com/202602281651/ffc3b4aaa64aaa16be9b969a2e0d7a31/v3/819b914d8799ffd7c679e79b4acd5b37/yp/full/ap1000_us0_pi409_s4231406267.mp3",
+      "source": "kugou"
+    },
+    {
+      "id": "95785ABFE2FC214039FAF76A71755C41",
+      "title": "说好的幸福呢 (女声版)",
+      "artist": "杨瑾儿",
+      "artistId": "a-杨瑾儿",
+      "duration": 0,
+      "album": null,
+      "cover": "http://singerimg.kugou.com/uploadpic/softhead/150/20250226/20250226143959245381.jpg",
+      "audio": "https://sharefs.kugou.com/202602281651/c22a60f344ceaff8f64867de58d7c4ff/v3/95785abfe2fc214039faf76a71755c41/yp/full/ap1000_us0_pi409_s868868823.mp3",
+      "source": "kugou"
+    },
+    {
+      "id": "D07C86A7E6B90248B0A17D5039E0F748",
+      "title": "说好的幸福呢",
+      "artist": "白允y",
+      "artistId": "a-白允y",
+      "duration": 0,
+      "album": "JAY",
+      "cover": "http://imge.kugou.com/stdmusic/150/20250221/20250221211725948960.jpg",
+      "audio": "https://sharefs.kugou.com/202602281651/1b583221ab8d7b20541769bf11888bde/v3/d07c86a7e6b90248b0a17d5039e0f748/yp/full/ap1000_us0_pi409_s702759041.mp3",
+      "source": "kugou"
+    },
+    {
+      "id": "2BEA89EB0D63FE26A907E5BEFDB29172",
+      "title": "说好的幸福呢",
+      "artist": "浪花兄弟",
+      "artistId": "a-浪花兄弟",
+      "duration": 0,
+      "album": "浪花兄弟",
+      "cover": "http://imge.kugou.com/stdmusic/150/20250125/20250125121658653130.jpg",
+      "audio": "https://sharefs.kugou.com/202602281651/0fc1bffca4414e612ec615e6ebba19c6/v3/2bea89eb0d63fe26a907e5befdb29172/yp/full/ap1000_us0_pi409_s839794971.mp3",
+      "source": "kugou"
+    },
+    {
+      "id": "5D6362C350C76E765AFBCD778EA57E50",
+      "title": "说好的幸福呢",
+      "artist": "白允y",
+      "artistId": "a-白允y",
+      "duration": 0,
+      "album": "说好的幸福呢(lucky小阳版)",
+      "cover": "http://imge.kugou.com/stdmusic/150/20240515/20240515115828435372.jpg",
+      "audio": "https://sharefs.kugou.com/202602281651/7c372e1bae3f6a5c85c14b07aa33c6cf/v3/5d6362c350c76e765afbcd778ea57e50/yp/full/ap1000_us0_pi409_s2358948965.mp3",
+      "source": "kugou"
+    },
+    {
+      "id": "039D8D609A2E34F922BEB147D0CBCEB7",
+      "title": "说好的幸福呢+淘汰+青花瓷 (Live)",
+      "artist": "周杰伦",
+      "artistId": "a-周杰伦",
+      "duration": 0,
+      "album": "The Era 2010 超时代演唱会",
+      "cover": "http://imge.kugou.com/stdmusic/150/20220718/20220718150701123137.jpg",
+      "audio": null,
+      "source": "kugou"
+    },
+    {
+      "id": "281DB43D27D2C6680484DC2B290C2435",
+      "title": "说好的幸福呢 (DJ苏亦洋、DJ顾小柒版)",
+      "artist": "周杰伦",
+      "artistId": "a-周杰伦",
+      "duration": 0,
+      "album": "后来的你在哪",
+      "cover": "http://imge.kugou.com/stdmusic/150/20220722/20220722110701247339.jpg",
+      "audio": "https://sharefs.kugou.com/202602281651/744c80d1a31659adbb7eca2af7c59245/v3/281db43d27d2c6680484dc2b290c2435/yp/full/ap1000_us0_pi409_s1271782668.mp3",
+      "source": "kugou"
+    },
+    {
+      "id": "6E44CE19BE5872384FA184B995CCE23B",
+      "title": "简单爱",
+      "artist": "周杰伦",
+      "artistId": "a-周杰伦",
+      "duration": 0,
+      "album": "范特西",
+      "cover": "http://imge.kugou.com/stdmusic/150/20250221/20250221180749429614.jpg",
+      "audio": null,
+      "source": "kugou"
+    },
+    {
+      "id": "D72F788EC491F1F38659F1642CB1E1C1",
+      "title": "简单爱",
+      "artist": "封茗囧菌",
+      "artistId": "a-封茗囧菌",
+      "duration": 0,
+      "album": "封茗囧菌翻唱合辑",
+      "cover": "http://imge.kugou.com/stdmusic/150/20220707/20220707005604947995.jpg",
+      "audio": "https://sharefs.kugou.com/202602281651/9acaedf68732fcf2ea7ccf9196456e55/v3/d72f788ec491f1f38659f1642cb1e1c1/yp/full/ap1000_us0_pi409_s3551971619.mp3",
+      "source": "kugou"
+    },
+    {
+      "id": "509839F86FFE477971F951E89C87C33E",
+      "title": "简单爱 (Live)",
+      "artist": "周杰伦",
+      "artistId": "a-周杰伦",
+      "duration": 0,
+      "album": "周杰伦 2004 无与伦比 演唱会 Live CD",
+      "cover": "http://imge.kugou.com/stdmusic/150/20250407/20250407171310989593.jpg",
+      "audio": null,
+      "source": "kugou"
+    },
+    {
+      "id": "80C0AD8F4224F5A1CD342CFEF132065D",
+      "title": "简单爱 (Live)",
+      "artist": "周杰伦",
+      "artistId": "a-周杰伦",
+      "duration": 0,
+      "album": "The One 演唱会",
+      "cover": "http://imge.kugou.com/stdmusic/150/20241206/20241206175526276180.jpg",
+      "audio": null,
+      "source": "kugou"
+    },
+    {
+      "id": "50D06F3270D657F3D837FECC3A5A7820",
+      "title": "简单爱 (DJ KD版)",
+      "artist": "周杰伦",
+      "artistId": "a-周杰伦",
+      "duration": 0,
+      "album": null,
+      "cover": "http://singerimg.kugou.com/uploadpic/softhead/150/20241112/20241112153406328180.jpg",
+      "audio": "https://sharefs.kugou.com/202602281651/7dc6668791771ef2cdf3faa2538585cb/v3/50d06f3270d657f3d837fecc3a5a7820/yp/full/ap1000_us0_pi409_s774593260.mp3",
+      "source": "kugou"
+    },
+    {
+      "id": "308628E8030C419D4C1026DAE0FF3A57",
+      "title": "简单爱",
+      "artist": "刘瑞琦",
+      "artistId": "a-刘瑞琦",
+      "duration": 0,
+      "album": "再次寻找周杰伦",
+      "cover": "http://imge.kugou.com/stdmusic/150/20200909/20200909120651754547.jpg",
+      "audio": "https://sharefs.kugou.com/202602281651/c2905e8a1fe4a262e79ee42ee84ae067/v3/308628e8030c419d4c1026dae0ff3a57/yp/full/ap1000_us0_pi409_s3913886706.mp3",
+      "source": "kugou"
+    },
+    {
+      "id": "F0491551154685ADE7943F56A4E16587",
+      "title": "简单爱 (女声版)",
+      "artist": "你肯定叫过我的名字",
+      "artistId": "a-你肯定叫过我的名字",
+      "duration": 0,
+      "album": null,
+      "cover": "http://singerimg.kugou.com/uploadpic/softhead/150/20241215/20241215152109155130.jpg",
+      "audio": "https://sharefs.kugou.com/202602281651/b6195e5f3c2bf98ae2644f70aecb1754/v3/f0491551154685ade7943f56a4e16587/yp/full/ap1000_us0_pi409_s1655705470.mp3",
+      "source": "kugou"
+    },
+    {
+      "id": "11117FB40B25E1B6BABBC42E730B6AD0",
+      "title": "简单爱",
+      "artist": "不知名烟嗓",
+      "artistId": "a-不知名烟嗓",
+      "duration": 0,
+      "album": "简单爱",
+      "cover": "http://imge.kugou.com/stdmusic/150/20250101/20250101014804336622.jpg",
+      "audio": null,
+      "source": "kugou"
     }
   ],
   "artists": [
     {
-      "id": "demo-artist",
-      "name": "Demo Artist",
+      "id": "a-周杰伦",
+      "name": "周杰伦",
       "tracks": [
-        "demo-3"
+        "B3A52A7A958BF0AED0EBFBA2E9A818B7",
+        "8909E1809908CD8E3BF6CF85D98B93F0",
+        "884F13CFF4F49C9D6327A1DFDF880573",
+        "B5FB24746AF437BE697BFDBC7BA997E7",
+        "74A79113F51D559728430C96EF5C7F9A",
+        "6AFB02B5438F755BBA767D9FF664A615",
+        "2C7CEB6CC2340ECC8948E0ACE62F0CF8",
+        "A961FE36799604D96D3D47624414F88C",
+        "16C8AB298231370293D16BCF9E5FF9B6",
+        "A097C5845FA9D429A74ED85D06B2FA68",
+        "5DDD4C4C630E3E20E5A16CF9B1CE00A1",
+        "3328808CECBD1A1038166003840FDDD7",
+        "F8DE1DFDFF5F9A1150C28F920A2A93C6",
+        "29B64C24830E95468207553A83005B1E",
+        "688857974673645CE89EDA26A36DB19D",
+        "2598A3BB5CA87E39958D77BF465CD062",
+        "9B20EEE35C425FD4925F6AB70E539D8E",
+        "892B7AD62499C97A1A994454423E30F6",
+        "039D8D609A2E34F922BEB147D0CBCEB7",
+        "281DB43D27D2C6680484DC2B290C2435",
+        "6E44CE19BE5872384FA184B995CCE23B",
+        "509839F86FFE477971F951E89C87C33E",
+        "80C0AD8F4224F5A1CD342CFEF132065D",
+        "50D06F3270D657F3D837FECC3A5A7820"
       ]
     },
     {
-      "id": "25cd539a-27ab-4d16-b423-603d69839aa1",
-      "name": "Sunburned Hand of the Man",
+      "id": "a-曾培宇Jackie、悦朵朵",
+      "name": "曾培宇Jackie、悦朵朵",
       "tracks": [
-        "1b8af39b-bf05-4dce-bd83-59d228252bb2"
+        "36BDC40148B5DFC06C625860883897AF",
+        "62D68F028E1FEDF15D9CBBA05F80C6D0"
       ]
     },
     {
-      "id": "39061a33-43c6-4106-bcb5-4b88b3db5fbd",
-      "name": "The Blue Jays",
+      "id": "a-吉拉朵",
+      "name": "吉拉朵",
       "tracks": [
-        "7ae5c623-1b96-4d50-bf65-dcc11a60ad2c"
+        "91A662A6DD6F74A96B0A7609EAEFDF3A",
+        "188522D1DAB3774A1D313C3DCD3E187F",
+        "5820C68431418EA0A2F7F30888B5F21A"
       ]
     },
     {
-      "id": "5c01ba41-ab67-47c4-ba4c-4f40b2724afd",
-      "name": "Donna Summer",
+      "id": "a-易广成",
+      "name": "易广成",
       "tracks": [
-        "1690e03e-cd75-4aca-b496-4cac6a2471a4",
-        "f5f90dab-db3e-4b7e-bbc5-db793f7091f6"
+        "80E0B5BDD9ACFDF9532F6D4733A26F67"
       ]
     },
     {
-      "id": "46b079a6-e34c-4d6c-9810-068a29a84def",
-      "name": "Jan van den Dobbelsteen",
+      "id": "a-蓝心羽",
+      "name": "蓝心羽",
       "tracks": [
-        "81fa8d28-d006-4572-95ca-e7830a1d5ff6"
+        "48C685F679FFC7CF08B8A8341CA9DB44"
       ]
     },
     {
-      "id": "6536196a-5a2b-4078-973d-f69d597c818d",
-      "name": "Playsongs",
+      "id": "a-梅菜扣肉肉",
+      "name": "梅菜扣肉肉",
       "tracks": [
-        "0eb51899-eefa-4956-92e0-330d0f1ef928",
-        "d5be2a61-32a9-4d06-ac12-3b70c539446e"
+        "0DF69FAEAEAC7358E4665BC7ACD72B5F",
+        "2287BEFF5726A892B8ECD050A17008F2"
       ]
     },
     {
-      "id": "75d3e87d-921f-476a-8c94-0b93364b4f90",
-      "name": "Jimmy Cavallo & His House Rockers",
+      "id": "a-欧阳耀莹",
+      "name": "欧阳耀莹",
       "tracks": [
-        "d33701db-39b8-4183-8645-99ea54707518",
-        "1f4de6a2-0d5c-4150-9862-217c6e073d98",
-        "ea532f09-1ba9-422d-a496-cae8269da165"
+        "25401378AF7F84258A60D2A3FB3463D3"
       ]
     },
     {
-      "id": "f319b57a-a494-40f6-a467-3d196d3484e6",
-      "name": "Sparks",
+      "id": "a-jaycd",
+      "name": "jaycd",
       "tracks": [
-        "f5f48aa6-6922-4f5d-9d49-49b5cf36c29b"
+        "F4500A08ED5404FD20101AA156E60074"
       ]
     },
     {
-      "id": "90eb2af2-79af-4e72-ad60-985753ce689d",
-      "name": "Kiddus I",
+      "id": "a-贝瓦儿歌",
+      "name": "贝瓦儿歌",
       "tracks": [
-        "452df6bf-fd52-4d52-95aa-0671dc674423"
+        "5BAB14E2381F2E8033306F8EB43FAEC4"
       ]
     },
     {
-      "id": "75167b8b-44e4-407b-9d35-effe87b223cf",
-      "name": "Neil Young",
+      "id": "a-余不不",
+      "name": "余不不",
       "tracks": [
-        "fb24a68d-6390-4ab2-bd3a-0f110590a9ac"
+        "F5CBDB9F625FFCBCFED707DD56DC9C6C"
       ]
     },
     {
-      "id": "81d1d4e3-2cb5-4795-b18f-4b36853b7279",
-      "name": "The Dixiebelles",
+      "id": "a-白允y",
+      "name": "白允y",
       "tracks": [
-        "eaa72a88-ffe9-4630-a934-3391a983151e"
+        "8E9775CDDF5FEB72D46F4F833631117A",
+        "EC079EE3C486346E1165D2C91FA684BF",
+        "B12511685FC6BC973BE3980CBD97364B",
+        "420434B39C282141194F58C180B58150",
+        "D07C86A7E6B90248B0A17D5039E0F748",
+        "5D6362C350C76E765AFBCD778EA57E50"
       ]
     },
     {
-      "id": "b64aca09-a378-4aeb-ba0f-2312335604d4",
-      "name": "Citron",
+      "id": "a-刘瑞琦",
+      "name": "刘瑞琦",
       "tracks": [
-        "e885853c-4222-487a-9127-77dd24709773"
+        "4CF5893E0C105938DCFC56740528EEB5",
+        "308628E8030C419D4C1026DAE0FF3A57"
       ]
     },
     {
-      "id": "2f768221-c825-49af-8688-aceeeef247c6",
-      "name": "Tony Tuff",
+      "id": "a-姜创钢琴",
+      "name": "姜创钢琴",
       "tracks": [
-        "2e93ab46-568f-4115-85dc-bb7eb9ef46e3"
+        "2C7D4F9067511004C6A7B0B985350AEF"
       ]
     },
     {
-      "id": "256df589-1530-4a3e-abd8-d6b9f46d3cf9",
-      "name": "Them That Do",
+      "id": "a-常颖杰",
+      "name": "常颖杰",
       "tracks": [
-        "1c11eb64-0fae-4f11-af46-397839ad7866"
+        "93645E07090D7CE95C2E2896D6E2658D"
       ]
     },
     {
-      "id": "bdda479c-bdf1-4d92-b628-aed76c0e254c",
-      "name": "박원",
+      "id": "a-王一只",
+      "name": "王一只",
       "tracks": [
-        "a8adcddb-c9f2-4f46-b353-f70155600c07"
+        "6C34C92E4DF41635EFB8ACFC741E4058"
       ]
     },
     {
-      "id": "0f48b2c3-d236-460a-9ef2-8231cf9ae054",
-      "name": "Acoustix",
+      "id": "a-唐小力",
+      "name": "唐小力",
       "tracks": [
-        "a1dff751-1242-4234-b2cc-290569e8fae9"
+        "3F9C3F9FA8A5E6911C2ACE591B761B6E"
       ]
     },
     {
-      "id": "6748bd88-f536-4be9-bbb5-b8d9f3d30778",
-      "name": "The Sperm",
+      "id": "a-慎啸",
+      "name": "慎啸",
       "tracks": [
-        "fa57eb58-a07f-40b3-bd9a-ec61fa27a46a",
-        "f8176160-3c66-45ea-83d2-9275e0cbd9f0",
-        "d1c5e2fe-5f82-4a23-803f-313c3dd9b82f"
+        "9C533887E697B85458F9E713B81BA743"
       ]
     },
     {
-      "id": "af351f7b-718c-40fc-845e-a6059b7afe7d",
-      "name": "Rob Mullins",
+      "id": "a-周杰伦、DJ阿若",
+      "name": "周杰伦、DJ阿若",
       "tracks": [
-        "425e63b7-ccd2-4087-bf9f-8353a3b10021",
-        "983922df-772c-4810-b40e-80decbf52336"
+        "514AF2D2B993E1A4BFFD0DF3EDA31874"
       ]
     },
     {
-      "id": "3e82027c-c01c-40a2-9423-0b59b8e2b9a6",
-      "name": "Jerk House Connection",
+      "id": "a-枯北",
+      "name": "枯北",
       "tracks": [
-        "f03b5a94-d408-41ce-87a5-92b212f3eb69"
+        "29B24C14D7365AE9F50B8836DB40C64C"
       ]
     },
     {
-      "id": "53ba77c5-2c98-407d-8488-aaaac464eff3",
-      "name": "João Penca e seus Miquinhos Amestrados",
+      "id": "a-耀温顺",
+      "name": "耀温顺",
       "tracks": [
-        "9b18e788-9718-4b11-9dcd-a661edb5b3c3"
+        "29C530B5AA07EFD6F5A4C837D02DD29E"
       ]
     },
     {
-      "id": "06fb1c8b-566e-4cb2-985b-b467c90781d4",
-      "name": "Jimi Hendrix",
+      "id": "a-夏奈",
+      "name": "夏奈",
       "tracks": [
-        "5d15b563-ab29-4634-8e2a-5f39cadab24b",
-        "73187cb7-b632-40f1-ba30-07451649c8d2"
+        "97DF6E07953E9777FD627F02A63CC054"
       ]
     },
     {
-      "id": "f5358bdf-816d-487d-b2a5-e5b1365b2e3f",
-      "name": "Bernard Peiffer",
+      "id": "a-二珂",
+      "name": "二珂",
       "tracks": [
-        "2b00790e-3029-47c8-82dc-c57d32d8f103"
+        "F4726605D01122AD14206E4EBFD3D2E1"
       ]
     },
     {
-      "id": "b8c9b36d-92a7-4c2f-9867-e98a2af2d6b8",
-      "name": "Chunky Nelson",
+      "id": "a-JESSE T",
+      "name": "JESSE T",
       "tracks": [
-        "47a87f6f-1955-4f8b-abed-eec28b0707d5",
-        "e6c69e0f-8709-4d75-83ac-cde7d769b659"
+        "AD8AA667FF9201B83834F283D1B09CAC"
       ]
     },
     {
-      "id": "8638f68e-24f8-4702-9ab1-79b85483d6f8",
-      "name": "Ray Clark",
+      "id": "a-成毅",
+      "name": "成毅",
       "tracks": [
-        "bef745b3-1a9d-422c-a243-d0a2d5ae4cbc"
+        "188797E63318F438F32BD85B4092895C"
       ]
     },
     {
-      "id": "02bc78ff-8131-4c7d-a994-eb2c8a38c86a",
-      "name": "Juantrip’",
+      "id": "a-童可可",
+      "name": "童可可",
       "tracks": [
-        "81cf1774-c404-43af-89af-afc87cade957"
+        "5B8B4FEABB65FD5F24243CF13B21CE5E"
       ]
     },
     {
-      "id": "82587236-f2e2-4e0d-905a-83d630a115b3",
-      "name": "Imbiss Bronko",
+      "id": "a-Kiiiu_",
+      "name": "Kiiiu_",
       "tracks": [
-        "ee3df6d6-9f1d-4c3d-9db4-d6165980b8a8"
+        "819B914D8799FFD7C679E79B4ACD5B37"
       ]
     },
     {
-      "id": "6d8578cc-fb25-4282-9bbf-aac932a432ea",
-      "name": "Spread the Disease",
+      "id": "a-杨瑾儿",
+      "name": "杨瑾儿",
       "tracks": [
-        "24340160-a19a-4e84-b7f3-8299c5d9557e",
-        "c8abaa8d-a9e1-439f-9088-2fe8d4e1d8e2"
+        "95785ABFE2FC214039FAF76A71755C41"
       ]
     },
     {
-      "id": "4ac2e788-f5f4-4efd-9953-785efae924c1",
-      "name": "Dave Smith",
+      "id": "a-浪花兄弟",
+      "name": "浪花兄弟",
       "tracks": [
-        "19c59f46-cd73-4dd9-ad3f-6b0175d42249"
+        "2BEA89EB0D63FE26A907E5BEFDB29172"
       ]
     },
     {
-      "id": "e569aee8-33ff-48e5-b0ed-4ceba1a37714",
-      "name": "Model 500",
+      "id": "a-封茗囧菌",
+      "name": "封茗囧菌",
       "tracks": [
-        "bbcd4228-671b-46e0-876a-2230ba312323"
+        "D72F788EC491F1F38659F1642CB1E1C1"
       ]
     },
     {
-      "id": "17adce06-a815-4c5b-9be7-e6b184f92ee4",
-      "name": "N‐Trance",
+      "id": "a-你肯定叫过我的名字",
+      "name": "你肯定叫过我的名字",
       "tracks": [
-        "31f30fb3-ae5e-4dc2-985a-c7e813c6dc7d"
+        "F0491551154685ADE7943F56A4E16587"
       ]
     },
     {
-      "id": "353856b7-8d79-4136-9ac6-7e47954e5be9",
-      "name": "John B",
+      "id": "a-不知名烟嗓",
+      "name": "不知名烟嗓",
       "tracks": [
-        "bde0d73a-42e1-44c0-8e74-9ce84447defa"
+        "11117FB40B25E1B6BABBC42E730B6AD0"
       ]
-    },
-    {
-      "id": "c5f11764-93e5-492f-b930-63e0fb4734bb",
-      "name": "SISU",
-      "tracks": [
-        "f0a42782-b3ad-4a13-a7db-cd4d34e395cb"
-      ]
-    },
-    {
-      "id": "b0b1c15c-a919-42a5-b0cb-bea47164cff6",
-      "name": "Ben Delay & Chris Powell",
-      "tracks": [
-        "d2395ebe-b19b-4f3a-a24e-0820fab1c911"
-      ]
-    },
-    {
-      "id": "bda28337-0f4e-41da-8840-9564f788bd86",
-      "name": "Mark E. Moon",
-      "tracks": [
-        "50cd9be9-5e0c-4b9f-9c45-953d764de4ea"
-      ]
-    },
-    {
-      "id": "0d24a6a4-f7c5-404f-a124-ab7d55687d38",
-      "name": "Dynamik Bass System",
-      "tracks": [
-        "c553955c-510a-4545-bd2a-b89da1fe92e2"
-      ]
-    },
-    {
-      "id": "d79eab5c-f34c-4130-b16c-581cc1502de1",
-      "name": "Supercurve",
-      "tracks": [
-        "bdf27b33-0a20-48b8-8ef6-b81408c66334"
-      ]
-    },
-    {
-      "id": "abb5bfa4-a6ca-452b-ba18-111e9447c9a7",
-      "name": "Don Voegeli",
-      "tracks": [
-        "ed75069d-74a7-4a73-8313-1381e82c9785"
-      ]
-    },
-    {
-      "id": "2392a519-46f2-4d54-a4f1-21d5643b3b7f",
-      "name": "Constatine Sankathi",
-      "tracks": [
-        "fd11a3bc-7519-4d5b-bfa2-fef61ef945db"
-      ]
-    },
-    {
-      "id": "a26724de-ee49-40c4-ac86-ed77661e29a4",
-      "name": "Woodbine",
-      "tracks": [
-        "13ac4a35-423f-4c99-b050-9c7ac63fa0f5"
-      ]
-    },
-    {
-      "id": "d68e2c4b-8411-4f80-8b55-6682ae70881d",
-      "name": "8-Bit Arcade",
-      "tracks": [
-        "f28b81ad-243d-4631-8d40-3cc991962bb2"
-      ]
-    },
-    {
-      "id": "3e3a29ab-99ba-4883-8e37-ff38e8d2b2f5",
-      "name": "Network Music",
-      "tracks": [
-        "9a201ee0-84b3-4319-98db-8241a47a8e3c"
-      ]
-    },
-    {
-      "id": "60a223ff-54b1-4f96-92e9-85e052df4f94",
-      "name": "Fetus Productions",
-      "tracks": [
-        "30ca152e-86a0-416a-b937-64a5974dd8cf",
-        "cf4eb386-0d70-46ca-ba15-ab36514e1603"
-      ]
-    },
-    {
-      "id": "823c0b89-5e6b-446d-b9d9-0eef6d522b11",
-      "name": "神谷柚利",
-      "tracks": [
-        "ec568a8b-d26e-4175-a4b5-f703387294f1"
-      ]
-    },
-    {
-      "id": "e7fd3e30-2306-45e7-bd9c-03594f064594",
-      "name": "Virginia Plain",
-      "tracks": [
-        "3338f46e-6ab3-4033-8f96-e77f2523c2a5"
-      ]
-    },
-    {
-      "id": "af37c51c-0790-4a29-b995-456f98a6b8c9",
-      "name": "Vampire Weekend",
-      "tracks": [
-        "a7d41d93-e03c-4705-b055-1fd15f2fe438"
-      ]
-    },
-    {
-      "id": "7bf7c525-b06b-4dd3-b731-4ed3d6f60778",
-      "name": "Sick Jacken",
-      "tracks": [
-        "6f87d537-8c2f-45e6-beac-259df2a341d7"
-      ]
-    },
-    {
-      "id": "22b353e7-c079-4d03-a978-375580c40d5a",
-      "name": "Hallo, keiner da?",
-      "tracks": [
-        "b3acc84c-f3df-4326-bef0-06c11978c0be"
-      ]
-    },
-    {
-      "id": "7ec4a553-73e5-4c0d-a071-a82b83a309e6",
-      "name": "John Zorn",
-      "tracks": [
-        "13db576f-fb04-4c88-bee3-408a5aca6940"
-      ]
-    },
-    {
-      "id": "dd70b3ed-80b8-4bc0-860d-2980cd0d0b9d",
-      "name": "Hood Surgeon",
-      "tracks": [
-        "a2d35516-0954-4dc9-89d1-844416c0e598"
-      ]
-    },
-    {
-      "id": "5c1d9278-cc8d-4bb3-9b32-00a8427e255e",
-      "name": "Josh Gray",
-      "tracks": [
-        "4d4314b5-562a-474f-9b96-df7d763c809b"
-      ]
-    },
-    {
-      "id": "2fdc1bf8-97cb-4b93-962f-d5ae29913433",
-      "name": "The Forms",
-      "tracks": [
-        "20ae20f3-a036-4e02-82d8-c829b39700a8"
-      ]
-    },
-    {
-      "id": "8263126b-9b1a-4509-b88c-fd87e4d22773",
-      "name": "Andy Bell",
-      "tracks": [
-        "0473ae50-c991-4434-ac5a-946d4bed01d4"
-      ]
-    },
-    {
-      "id": "51f30a96-9fa2-4078-99bb-db2a1cdd9aeb",
-      "name": "BLACKSWAN",
-      "tracks": [
-        "12a35684-5aa6-488e-a864-41b290689e73"
-      ]
-    },
-    {
-      "id": "268d14d0-d4e6-4f79-891f-64ca9361290a",
-      "name": "Cape Lion",
-      "tracks": [
-        "86a7c2e6-fa7b-4c70-99f5-356c2962e42c"
-      ]
-    },
-    {
-      "id": "ddfb4558-4766-4d9e-96ed-df3297063c64",
-      "name": "Lézard",
-      "tracks": [
-        "218909a2-5032-425e-bee1-09c2922e424f",
-        "5a9e6eb9-d073-4fce-b880-589d46f5837b"
-      ]
-    },
-    {
-      "id": "f1c446a9-44fe-4287-be97-380c856bdbad",
-      "name": "Wimpy Dicks",
-      "tracks": [
-        "6c47ec4c-ea45-4e9c-ae63-f75cd1da7916"
-      ]
-    },
-    {
-      "id": "3bdcd49d-212e-4f4f-877a-eac1e4a2bddc",
-      "name": "Naughty by Nature",
-      "tracks": [
-        "26637f43-0ef8-4b77-9bb1-1dba1fdcde96"
-      ]
-    },
-    {
-      "id": "669a0829-f19b-4bdd-9958-fb883ad7c178",
-      "name": "The Ambassador",
-      "tracks": [
-        "417ab243-e73f-4284-8335-7dabeae3b340"
-      ]
-    },
-    {
-      "id": "db65e3aa-c49c-4918-a20e-e0b0f9a30156",
-      "name": "Victorian Halls",
-      "tracks": [
-        "ebbbb7ff-ef0d-4fc3-997e-f2dda67b89e9"
-      ]
-    },
-    {
-      "id": "1f53b0f0-a029-4c39-9049-0fba8011fb28",
-      "name": "your best friend jippy",
-      "tracks": [
-        "24f9208e-9a2b-46b9-a33f-d7099d5cf2f4"
-      ]
-    },
-    {
-      "id": "7663d532-8985-46eb-b2cd-06046eafb3c1",
-      "name": "ぽらぽら。",
-      "tracks": [
-        "ff81ddfe-533f-4707-8495-9ff7c28f7b61"
-      ]
-    },
-    {
-      "id": "be465d4f-c28d-4ba1-94ab-ebaada7db8af",
-      "name": "IDLES",
-      "tracks": [
-        "2f7261cc-b4fd-45ab-a805-410ee24f4cf0"
-      ]
-    },
-    {
-      "id": "1bdd1d2d-5974-46e7-8003-2e2ee3176653",
-      "name": "Eppu Normaali",
-      "tracks": [
-        "9b4c2987-11fd-49cc-a61a-dfbbbe841d28"
-      ]
-    },
-    {
-      "id": "5b5eadc8-4be8-4de6-b247-3497a0043c99",
-      "name": "LoLo",
-      "tracks": [
-        "c9ba7b16-e2a0-465b-a381-5d7c568e1f64"
-      ]
-    }
-  ],
-  "albums": [
-    {
-      "id": "3d65c680-297e-4d72-8176-eb2dcdc2561b",
-      "title": "Down in the Grind",
-      "artist": "Sunburned Hand of the Man",
-      "cover": "https://coverartarchive.org/release/3d65c680-297e-4d72-8176-eb2dcdc2561b/front-250"
-    },
-    {
-      "id": "bd4a42a9-f031-42e8-bcf5-a53976fda834",
-      "title": "The Bluejays Meet the Paradons",
-      "artist": "The Blue Jays",
-      "cover": "https://coverartarchive.org/release/bd4a42a9-f031-42e8-bcf5-a53976fda834/front-250"
-    },
-    {
-      "id": "16b92cb7-2ea2-4079-b948-68e91a69f730",
-      "title": "Panther Tracks",
-      "artist": "Donna Summer",
-      "cover": "https://coverartarchive.org/release/16b92cb7-2ea2-4079-b948-68e91a69f730/front-250"
-    },
-    {
-      "id": "50d18cc9-3945-4b40-b54a-6a9d50da7082",
-      "title": "Naked and Alone on the Celebrity Circuit",
-      "artist": "Jan van den Dobbelsteen",
-      "cover": "https://coverartarchive.org/release/50d18cc9-3945-4b40-b54a-6a9d50da7082/front-250"
-    },
-    {
-      "id": "c2b7616a-e664-41a4-8257-b9ad681545c9",
-      "title": "Playsongs",
-      "artist": "Playsongs",
-      "cover": "https://coverartarchive.org/release/c2b7616a-e664-41a4-8257-b9ad681545c9/front-250"
-    },
-    {
-      "id": "c0aa47de-2710-4bfe-a00a-443b8ec8d950",
-      "title": "Rock Around the Clock: The Decca Rock ’n’ Roll Collection",
-      "artist": "Jimmy Cavallo & His House Rockers",
-      "cover": "https://coverartarchive.org/release/c0aa47de-2710-4bfe-a00a-443b8ec8d950/front-250"
-    },
-    {
-      "id": "06da2b9f-72ef-4623-87b9-c42d97146c78",
-      "title": "Hello Young Lovers",
-      "artist": "Sparks",
-      "cover": "https://coverartarchive.org/release/06da2b9f-72ef-4623-87b9-c42d97146c78/front-250"
-    },
-    {
-      "id": "d8984073-abbc-4c4a-8a92-b88ec83fe3fc",
-      "title": "Green Fa Life",
-      "artist": "Kiddus I",
-      "cover": "https://coverartarchive.org/release/d8984073-abbc-4c4a-8a92-b88ec83fe3fc/front-250"
-    },
-    {
-      "id": "2c1dfacc-9e65-447f-9485-927509ec81ff",
-      "title": "Live USA Vol. 3",
-      "artist": "Neil Young",
-      "cover": "https://coverartarchive.org/release/2c1dfacc-9e65-447f-9485-927509ec81ff/front-250"
-    },
-    {
-      "id": "bcf44860-a52d-4af5-8b5b-37b69bf4507f",
-      "title": "Down at Papa Joe’s",
-      "artist": "The Dixiebelles",
-      "cover": "https://coverartarchive.org/release/bcf44860-a52d-4af5-8b5b-37b69bf4507f/front-250"
-    },
-    {
-      "id": "b9887a9d-d11f-4fdf-a5d5-4153919c74cf",
-      "title": "1979-2017",
-      "artist": "Citron",
-      "cover": "https://coverartarchive.org/release/b9887a9d-d11f-4fdf-a5d5-4153919c74cf/front-250"
-    },
-    {
-      "id": "0af729fc-66ce-45a1-823a-9cbdf53ba9a3",
-      "title": "Panther Tracks",
-      "artist": "Donna Summer",
-      "cover": "https://coverartarchive.org/release/0af729fc-66ce-45a1-823a-9cbdf53ba9a3/front-250"
-    },
-    {
-      "id": "3286a162-8e78-4657-8c27-b0f79afa628d",
-      "title": "Rare Rock ’n’ Roll Rampage",
-      "artist": "Jimmy Cavallo & His House Rockers",
-      "cover": "https://coverartarchive.org/release/3286a162-8e78-4657-8c27-b0f79afa628d/front-250"
-    },
-    {
-      "id": "aa133407-7680-45aa-afdc-ed3050830183",
-      "title": "Rock Rock Rock",
-      "artist": "Tony Tuff",
-      "cover": "https://coverartarchive.org/release/aa133407-7680-45aa-afdc-ed3050830183/front-250"
-    },
-    {
-      "id": "dd6ab286-4a85-49dd-9e17-adeaf9081b3c",
-      "title": "Alan Freed’s Rock and Roll Dance Party",
-      "artist": "Jimmy Cavallo & His House Rockers",
-      "cover": "https://coverartarchive.org/release/dd6ab286-4a85-49dd-9e17-adeaf9081b3c/front-250"
-    },
-    {
-      "id": "c581e593-2178-4cd7-902f-c467cebaff39",
-      "title": "Them That Do...",
-      "artist": "Them That Do",
-      "cover": "https://coverartarchive.org/release/c581e593-2178-4cd7-902f-c467cebaff39/front-250"
-    },
-    {
-      "id": "44ebc89b-7073-45c1-989b-dbe2625324b4",
-      "title": "Like A Wonder",
-      "artist": "박원",
-      "cover": "https://coverartarchive.org/release/44ebc89b-7073-45c1-989b-dbe2625324b4/front-250"
-    },
-    {
-      "id": "26b26eb6-9b16-441b-b41e-1355c31264b5",
-      "title": "Jazz, Jazz, Jazz",
-      "artist": "Acoustix",
-      "cover": "https://coverartarchive.org/release/26b26eb6-9b16-441b-b41e-1355c31264b5/front-250"
-    },
-    {
-      "id": "d3951bc3-318c-43bc-a58c-49c1cca844ba",
-      "title": "50th Erection I: Collected Works 1968–1971",
-      "artist": "The Sperm",
-      "cover": "https://coverartarchive.org/release/d3951bc3-318c-43bc-a58c-49c1cca844ba/front-250"
-    },
-    {
-      "id": "f822c60d-1fe0-4221-9286-dfb7355bb9bd",
-      "title": "Jazz Jazz",
-      "artist": "Rob Mullins",
-      "cover": "https://coverartarchive.org/release/f822c60d-1fe0-4221-9286-dfb7355bb9bd/front-250"
-    },
-    {
-      "id": "d22a353a-bfe2-4b7c-8cb1-8e1fb325bf00",
-      "title": "Nova Collection '89",
-      "artist": "Rob Mullins",
-      "cover": "https://coverartarchive.org/release/d22a353a-bfe2-4b7c-8cb1-8e1fb325bf00/front-250"
-    },
-    {
-      "id": "89daa4c6-9b53-449d-b158-e89526ad50c3",
-      "title": "Best of Chill Out Café, Vol4",
-      "artist": "Jerk House Connection",
-      "cover": "https://coverartarchive.org/release/89daa4c6-9b53-449d-b158-e89526ad50c3/front-250"
-    },
-    {
-      "id": "e2e0df0e-f53e-4784-ae09-373e44325f33",
-      "title": "Além da Alienação",
-      "artist": "João Penca e seus Miquinhos Amestrados",
-      "cover": "https://coverartarchive.org/release/e2e0df0e-f53e-4784-ae09-373e44325f33/front-250"
-    },
-    {
-      "id": "65f27b44-4ed5-472d-baf9-76a5b6452b2e",
-      "title": "Works 1968–76",
-      "artist": "The Sperm",
-      "cover": "https://coverartarchive.org/release/65f27b44-4ed5-472d-baf9-76a5b6452b2e/front-250"
-    },
-    {
-      "id": "9c18e57e-a310-4b01-911e-68d48120603c",
-      "title": "Shh!",
-      "artist": "The Sperm",
-      "cover": "https://coverartarchive.org/release/9c18e57e-a310-4b01-911e-68d48120603c/front-250"
-    },
-    {
-      "id": "c4fe0e5d-7d54-4a1d-b134-a7fbf490b1f6",
-      "title": "Sotheby’s Auction Tapes",
-      "artist": "Jimi Hendrix",
-      "cover": "https://coverartarchive.org/release/c4fe0e5d-7d54-4a1d-b134-a7fbf490b1f6/front-250"
-    },
-    {
-      "id": "342cfe82-a443-4bc4-8c2d-ce2f2ae85178",
-      "title": "L’Histoire du piano jazz",
-      "artist": "Bernard Peiffer",
-      "cover": "https://coverartarchive.org/release/342cfe82-a443-4bc4-8c2d-ce2f2ae85178/front-250"
-    },
-    {
-      "id": "d5082e55-4042-4c27-a3dc-e34de37298c8",
-      "title": "Promos 7: Chat Show/Lifestyles",
-      "artist": "Chunky Nelson",
-      "cover": "https://coverartarchive.org/release/d5082e55-4042-4c27-a3dc-e34de37298c8/front-250"
-    },
-    {
-      "id": "8200a77a-87ee-494f-b394-1a0687bad753",
-      "title": "The Master's Masters",
-      "artist": "Jimi Hendrix",
-      "cover": "https://coverartarchive.org/release/8200a77a-87ee-494f-b394-1a0687bad753/front-250"
-    },
-    {
-      "id": "39cf9b22-4de0-440a-9187-2f79ad3b5194",
-      "title": "Techno Top 100, Volume 3",
-      "artist": "Ray Clark",
-      "cover": "https://coverartarchive.org/release/39cf9b22-4de0-440a-9187-2f79ad3b5194/front-250"
-    },
-    {
-      "id": "9b61096c-004b-380d-a180-01303ac821b7",
-      "title": "Paris: The Sex, the City, the Music",
-      "artist": "Juantrip’",
-      "cover": "https://coverartarchive.org/release/9b61096c-004b-380d-a180-01303ac821b7/front-250"
-    },
-    {
-      "id": "6de3f78a-84af-404b-b1c3-47bee85ae6b6",
-      "title": "Fleisch hat immer Saison",
-      "artist": "Imbiss Bronko",
-      "cover": "https://coverartarchive.org/release/6de3f78a-84af-404b-b1c3-47bee85ae6b6/front-250"
-    },
-    {
-      "id": "d1364034-f25e-46ee-a0c7-c9dfb56c8551",
-      "title": "The Sheer Force of Inertia",
-      "artist": "Spread the Disease",
-      "cover": "https://coverartarchive.org/release/d1364034-f25e-46ee-a0c7-c9dfb56c8551/front-250"
-    },
-    {
-      "id": "e9318f0a-175e-4e55-83b4-40c5466f9200",
-      "title": "Maximum Promotions",
-      "artist": "Dave Smith",
-      "cover": "https://coverartarchive.org/release/e9318f0a-175e-4e55-83b4-40c5466f9200/front-250"
-    },
-    {
-      "id": "feaa8af5-ea8b-4d3e-82c3-2d2f0785647e",
-      "title": "Interference / Electronic",
-      "artist": "Model 500",
-      "cover": "https://coverartarchive.org/release/feaa8af5-ea8b-4d3e-82c3-2d2f0785647e/front-250"
-    },
-    {
-      "id": "3118a495-a208-415a-b9f9-a9e141735955",
-      "title": "Mega Dance Mix ’96, Vol. 1: The Full Speed Dance Trip",
-      "artist": "N‐Trance",
-      "cover": "https://coverartarchive.org/release/3118a495-a208-415a-b9f9-a9e141735955/front-250"
-    },
-    {
-      "id": "a6658692-6bd7-4d1d-8261-752bdbcdefa9",
-      "title": "Electrostep (15th Anniversary Edition)",
-      "artist": "John B",
-      "cover": "https://coverartarchive.org/release/a6658692-6bd7-4d1d-8261-752bdbcdefa9/front-250"
-    },
-    {
-      "id": "bec35d3c-7f3b-4882-b430-445e5d6ecb06",
-      "title": "Blood Tears",
-      "artist": "SISU",
-      "cover": "https://coverartarchive.org/release/bec35d3c-7f3b-4882-b430-445e5d6ecb06/front-250"
-    },
-    {
-      "id": "2d4a1873-89f5-4c84-8501-93f1cd6c9028",
-      "title": "Sunshine Live House Edition, Volume 5",
-      "artist": "Ben Delay & Chris Powell",
-      "cover": "https://coverartarchive.org/release/2d4a1873-89f5-4c84-8501-93f1cd6c9028/front-250"
-    },
-    {
-      "id": "84cdb07f-79bc-4564-9da6-6216527cbd81",
-      "title": "Refer",
-      "artist": "Mark E. Moon",
-      "cover": "https://coverartarchive.org/release/84cdb07f-79bc-4564-9da6-6216527cbd81/front-250"
-    },
-    {
-      "id": "e942a191-8514-4ee1-8b6a-8fa2b50c1f4b",
-      "title": "The Mighty Machine",
-      "artist": "Dynamik Bass System",
-      "cover": "https://coverartarchive.org/release/e942a191-8514-4ee1-8b6a-8fa2b50c1f4b/front-250"
-    },
-    {
-      "id": "133d3ba3-631f-4ebf-bd92-cb22c756507c",
-      "title": "Frequency EP",
-      "artist": "Supercurve",
-      "cover": "https://coverartarchive.org/release/133d3ba3-631f-4ebf-bd92-cb22c756507c/front-250"
-    },
-    {
-      "id": "cd6b763c-e02e-4a78-8d29-52b87d981bc2",
-      "title": "Four Notes In Search Of A Tune",
-      "artist": "Don Voegeli",
-      "cover": "https://coverartarchive.org/release/cd6b763c-e02e-4a78-8d29-52b87d981bc2/front-250"
-    },
-    {
-      "id": "b5d9ad51-f8ff-46b3-b2fb-f42bc4d9eeb1",
-      "title": "Discography",
-      "artist": "Constatine Sankathi",
-      "cover": "https://coverartarchive.org/release/b5d9ad51-f8ff-46b3-b2fb-f42bc4d9eeb1/front-250"
-    },
-    {
-      "id": "5218b881-e234-4e02-a326-477cd4543cb7",
-      "title": "Woodbine",
-      "artist": "Woodbine",
-      "cover": "https://coverartarchive.org/release/5218b881-e234-4e02-a326-477cd4543cb7/front-250"
-    },
-    {
-      "id": "8be91dfc-5181-4aa9-9511-1fe48c049986",
-      "title": "By Request, Vol. 259",
-      "artist": "8-Bit Arcade",
-      "cover": "https://coverartarchive.org/release/8be91dfc-5181-4aa9-9511-1fe48c049986/front-250"
-    },
-    {
-      "id": "f93d0488-2c0e-49ee-8e2d-dc063071edff",
-      "title": "Network Music Demo",
-      "artist": "Network Music",
-      "cover": "https://coverartarchive.org/release/f93d0488-2c0e-49ee-8e2d-dc063071edff/front-250"
-    },
-    {
-      "id": "70935421-4f39-4efd-9f86-5afb7e234c37",
-      "title": "Environmental",
-      "artist": "Fetus Productions",
-      "cover": "https://coverartarchive.org/release/70935421-4f39-4efd-9f86-5afb7e234c37/front-250"
-    },
-    {
-      "id": "d3e0888b-f3f5-497a-b28c-94e1e4490588",
-      "title": "IMPRESSION",
-      "artist": "神谷柚利",
-      "cover": "https://coverartarchive.org/release/d3e0888b-f3f5-497a-b28c-94e1e4490588/front-250"
-    },
-    {
-      "id": "97511f96-f267-4f6f-a97c-fe291954d773",
-      "title": "Strange Game",
-      "artist": "Virginia Plain",
-      "cover": "https://coverartarchive.org/release/97511f96-f267-4f6f-a97c-fe291954d773/front-250"
-    },
-    {
-      "id": "a10299fd-3a2a-4cd3-8adf-b704d9a561f9",
-      "title": "ONLY COACHELLA WAS ABOVE US",
-      "artist": "Vampire Weekend",
-      "cover": "https://coverartarchive.org/release/a10299fd-3a2a-4cd3-8adf-b704d9a561f9/front-250"
-    },
-    {
-      "id": "05c1c352-512e-4e22-98e5-ee3c4eb3ce39",
-      "title": "DJ Muggs Presents: Soul Assassins: Intermission",
-      "artist": "Sick Jacken",
-      "cover": "https://coverartarchive.org/release/05c1c352-512e-4e22-98e5-ee3c4eb3ce39/front-250"
-    },
-    {
-      "id": "12efe1c9-1e6b-43c4-b86a-924f77819523",
-      "title": "Telefonansagen für Ihren Anrufbeantworter",
-      "artist": "Hallo, keiner da?",
-      "cover": "https://coverartarchive.org/release/12efe1c9-1e6b-43c4-b86a-924f77819523/front-250"
-    },
-    {
-      "id": "0911ce53-c2f8-45b7-8286-a2751632244f",
-      "title": "Filmworks VII: Cynical Hysterie Hour",
-      "artist": "John Zorn",
-      "cover": "https://coverartarchive.org/release/0911ce53-c2f8-45b7-8286-a2751632244f/front-250"
-    },
-    {
-      "id": "c693b23c-a2f0-49f9-aa92-77ba6712988c",
-      "title": "Flicker",
-      "artist": "Fetus Productions",
-      "cover": "https://coverartarchive.org/release/c693b23c-a2f0-49f9-aa92-77ba6712988c/front-250"
-    },
-    {
-      "id": "0f294129-2fc8-48e0-9f53-06e53c10602f",
-      "title": "Son of a Doctor",
-      "artist": "Hood Surgeon",
-      "cover": "https://coverartarchive.org/release/0f294129-2fc8-48e0-9f53-06e53c10602f/front-250"
-    },
-    {
-      "id": "72c99a9e-c35a-42fb-aa00-b251adafd46f",
-      "title": "Four Instrumentals and an Activist",
-      "artist": "Josh Gray",
-      "cover": "https://coverartarchive.org/release/72c99a9e-c35a-42fb-aa00-b251adafd46f/front-250"
-    },
-    {
-      "id": "8369f36a-85a7-4447-839a-57dc9d6337f5",
-      "title": "HVY.28.Sumosonic",
-      "artist": "The Forms",
-      "cover": "https://coverartarchive.org/release/8369f36a-85a7-4447-839a-57dc9d6337f5/front-250"
-    },
-    {
-      "id": "205cb602-637b-4396-8dcd-b0fdf0187077",
-      "title": "Non-Stop",
-      "artist": "Andy Bell",
-      "cover": "https://coverartarchive.org/release/205cb602-637b-4396-8dcd-b0fdf0187077/front-250"
-    },
-    {
-      "id": "c0420dbb-e018-4577-8dd3-d4957c38a94f",
-      "title": "Time to Rock da shoW",
-      "artist": "BLACKSWAN",
-      "cover": "https://coverartarchive.org/release/c0420dbb-e018-4577-8dd3-d4957c38a94f/front-250"
-    },
-    {
-      "id": "bed0f01c-d2aa-42ca-96ea-3f6887c216a8",
-      "title": "Piscolabis",
-      "artist": "Cape Lion",
-      "cover": "https://coverartarchive.org/release/bed0f01c-d2aa-42ca-96ea-3f6887c216a8/front-250"
-    },
-    {
-      "id": "e0bcecd5-80b3-48c5-ba72-2fd17f2a6d43",
-      "title": "Que se passe-t-il",
-      "artist": "Lézard",
-      "cover": "https://coverartarchive.org/release/e0bcecd5-80b3-48c5-ba72-2fd17f2a6d43/front-250"
-    },
-    {
-      "id": "3b02d3ba-aff9-426f-b869-ee15d546f3ad",
-      "title": "How Does It Feel?",
-      "artist": "Lézard",
-      "cover": "https://coverartarchive.org/release/3b02d3ba-aff9-426f-b869-ee15d546f3ad/front-250"
-    },
-    {
-      "id": "56bf157d-a4cd-490e-97b3-6c7921ca2cac",
-      "title": "S.L.O. Bored",
-      "artist": "Wimpy Dicks",
-      "cover": "https://coverartarchive.org/release/56bf157d-a4cd-490e-97b3-6c7921ca2cac/front-250"
-    },
-    {
-      "id": "2f3844f4-5416-4a58-a454-765cedacd24e",
-      "title": "Illtown Sluggaz",
-      "artist": "Naughty by Nature",
-      "cover": "https://coverartarchive.org/release/2f3844f4-5416-4a58-a454-765cedacd24e/front-250"
-    },
-    {
-      "id": "e909d919-c9e1-408a-9fc2-6021eb8b9424",
-      "title": "Stop the Funeral",
-      "artist": "The Ambassador",
-      "cover": "https://coverartarchive.org/release/e909d919-c9e1-408a-9fc2-6021eb8b9424/front-250"
-    },
-    {
-      "id": "dc0038df-80fc-45a6-8e42-8937b9dacc24",
-      "title": "Springsteen",
-      "artist": "Victorian Halls",
-      "cover": "https://coverartarchive.org/release/dc0038df-80fc-45a6-8e42-8937b9dacc24/front-250"
-    },
-    {
-      "id": "cc0a1872-a694-4679-8b8e-640bfb146424",
-      "title": "BEAT TAPE 31.",
-      "artist": "your best friend jippy",
-      "cover": "https://coverartarchive.org/release/cc0a1872-a694-4679-8b8e-640bfb146424/front-250"
-    },
-    {
-      "id": "a5063452-d941-4706-8f7b-c327e6f508b7",
-      "title": "PORARION WORLD",
-      "artist": "ぽらぽら。",
-      "cover": "https://coverartarchive.org/release/a5063452-d941-4706-8f7b-c327e6f508b7/front-250"
-    },
-    {
-      "id": "07ecc342-eaae-4122-8b81-2a07d110236a",
-      "title": "POP POP POP",
-      "artist": "IDLES",
-      "cover": "https://coverartarchive.org/release/07ecc342-eaae-4122-8b81-2a07d110236a/front-250"
-    },
-    {
-      "id": "e3c3b87a-2eb3-45a5-a2a7-610a37745194",
-      "title": "Osaa mieskin sanoittaa - Mikko Saarelan lyriikoita eestä äffään",
-      "artist": "Eppu Normaali",
-      "cover": "https://coverartarchive.org/release/e3c3b87a-2eb3-45a5-a2a7-610a37745194/front-250"
-    },
-    {
-      "id": "9055a671-f458-4de1-9e00-2b4fd15fcf01",
-      "title": "JOSEO EXCLUSIVE CLUB.",
-      "artist": "LoLo",
-      "cover": "https://coverartarchive.org/release/9055a671-f458-4de1-9e00-2b4fd15fcf01/front-250"
     }
   ],
   "meta": {
-    "updated": "2026-02-28T08:37:42.577Z",
-    "total": 78
+    "updated": "2026-02-28T08:52:32.054Z",
+    "total": 64,
+    "source": "kugou"
   }
 }
