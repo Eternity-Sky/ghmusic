@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>ghmusic</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500&family=Noto+Sans+SC:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/src/style.css">
+</head>
+<body>
+  <div class="app">
+    <aside class="sidebar">
+      <a href="#" class="logo">ghmusic</a>
+      <nav>
+        <a href="#" class="nav-item active" data-view="home">
+          <span class="nav-icon">◉</span>
+          <span>发现</span>
+        </a>
+        <a href="#" class="nav-item" data-view="library">
+          <span class="nav-icon">▤</span>
+          <span>曲库</span>
+        </a>
+      </nav>
+      <div class="playlists">
+        <h3>播放列表</h3>
+        <ul id="playlist-list"></ul>
+      </div>
+    </aside>
+    <main class="main">
+      <header class="header">
+        <div class="search-box">
+          <span class="search-icon">⌕</span>
+          <input type="search" id="search" placeholder="搜索歌曲、艺人..." autocomplete="off">
+        </div>
+      </header>
+      <section class="content" id="content">
+        <div class="hero">
+          <h1>ghmusic</h1>
+          <p>无后端 · 全爬取 · 深色简洁</p>
+        </div>
+        <section class="section">
+          <h2>正在播放</h2>
+          <div class="track-list" id="track-list"></div>
+        </section>
+      </section>
+    </main>
+    <footer class="player">
+      <div class="now-playing">
+        <img id="now-cover" src="" alt="">
+        <div class="now-info">
+          <span id="now-title">—</span>
+          <span id="now-artist">—</span>
+        </div>
+      </div>
+      <div class="controls">
+        <button id="prev" aria-label="上一首">⏮</button>
+        <button id="play" aria-label="播放">▶</button>
+        <button id="next" aria-label="下一首">⏭</button>
+      </div>
+      <div class="progress">
+        <span id="time-current">0:00</span>
+        <input type="range" id="seek" min="0" max="100" value="0">
+        <span id="time-total">0:00</span>
+      </div>
+    </footer>
+  </div>
+  <audio id="audio" preload="metadata"></audio>
+  <script type="module" src="/src/main.js"></script>
+</body>
+</html>
